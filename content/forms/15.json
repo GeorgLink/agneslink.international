@@ -1,0 +1,58 @@
+{
+ "id": "15",
+ "title": "Kontaktformular 1",
+ "fields": [
+  {
+   "name": "your-name",
+   "type": "text",
+   "required": true,
+   "options": [
+    "Your full name"
+   ]
+  },
+  {
+   "name": "your-email",
+   "type": "email",
+   "required": true,
+   "options": [
+    "Your e-mail"
+   ]
+  },
+  {
+   "name": "your-subject",
+   "type": "text",
+   "required": false,
+   "options": [
+    "Subject"
+   ]
+  },
+  {
+   "name": "your-message",
+   "type": "textarea",
+   "required": false,
+   "options": [
+    "Your message"
+   ]
+  },
+  {
+   "name": "acceptance-752",
+   "type": "acceptance",
+   "required": false,
+   "options": []
+  },
+  {
+   "name": "website",
+   "type": "honeypot",
+   "required": false,
+   "options": []
+  },
+  {
+   "name": "mail",
+   "type": "honeypot",
+   "required": false,
+   "options": []
+  }
+ ],
+ "recipient": "peter.w.link@gmail.com",
+ "template": "[text* your-name placeholder \"Your full name\"]\n\n[email* your-email placeholder \"Your e-mail\"]\n\n[text your-subject placeholder \"Subject\"]\n\n[textarea your-message placeholder \"Your message\"]\n\n[acceptance acceptance-752] I have read and understood the privacy policy. I agree that my details and data will be collected and stored electronically to answer my enquiry. Note: You can revoke your consent at any time for the future.* [/acceptance]\n\n[honeypot website]\n[honeypot mail]\n\n[submit \"Send\"]"
+}

@@ -1,0 +1,92 @@
+{
+ "fonts/fonts.css": {
+  "bytes": 4152,
+  "sha256": "6a8cb34e36161a642206379cbce5772857219ee85e4176430382eb1510abf342",
+  "source": "https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Playfair+Display:wght@400;700&display=swap"
+ },
+ "fonts/mousememoirs-t5tmIRoSNJ-PH0WNNgDYxdSb3T7Pr7GEch8.woff2": {
+  "bytes": 18108,
+  "sha256": "89bb4ecbca0f9addaa9c8e3d561b64907ea50b14d2b0f5b30630ad22c5dd3385",
+  "source": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb3T7Pr7GEch8.woff2"
+ },
+ "fonts/mousememoirs-t5tmIRoSNJ-PH0WNNgDYxdSb3TDPr7GEch8jrg.woff2": {
+  "bytes": 9856,
+  "sha256": "82c3ed13d3ac1e7fc77f6a2969ef3401d56af00d32a8dc9566f6472fa842ef55",
+  "source": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPr7GEch8jrg.woff2"
+ },
+ "fonts/playfairdisplay-nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2": {
+  "bytes": 20980,
+  "sha256": "5628567856d60d714e7a35bcac9e3de08b336d63b12138f61b970990a1ee9547",
+  "source": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+ },
+ "fonts/playfairdisplay-nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2": {
+  "bytes": 9056,
+  "sha256": "8fa67d5f0ab2a1d0b924729a0411a069b384d7a236edd96a6767ef342a6d048f",
+  "source": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+ },
+ "fonts/playfairdisplay-nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2": {
+  "bytes": 21144,
+  "sha256": "d7f9db9b1034978ebebdf7312aa4aee55dff3ef6039e7ff71413780bd4a05558",
+  "source": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+ },
+ "fonts/playfairdisplay-nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2": {
+  "bytes": 38460,
+  "sha256": "5d91eb5d522a03081946c44c8ca17c902230dfed5f0f9b5014262135d47b15b2",
+  "source": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+ },
+ "posters/2bW7g4b3wPA.jpg": {
+  "bytes": 94493,
+  "sha256": "9cf3a2ce5381f56ca3b204d9a3b9f56812b4bc30b4b8d5d64842f4bb41b960f7",
+  "source": "https://img.youtube.com/vi/2bW7g4b3wPA/maxresdefault.jpg"
+ },
+ "posters/5b4kCtG8-uQ.jpg": {
+  "bytes": 151230,
+  "sha256": "87713b2c6a736b171609a9acacfb9a817d76a22725d1203267d9343ae2690870",
+  "source": "https://img.youtube.com/vi/5b4kCtG8-uQ/maxresdefault.jpg"
+ },
+ "posters/I01J6NcNhPA.jpg": {
+  "bytes": 95128,
+  "sha256": "557f1b97f116dc9b1f64efb42f0e15509da5b4426bc0174c9d09f931d0f698b8",
+  "source": "https://img.youtube.com/vi/I01J6NcNhPA/maxresdefault.jpg"
+ },
+ "posters/Mv5hf2aI5uA.jpg": {
+  "bytes": 107638,
+  "sha256": "abcb66c7107c635b1f7934556e109b0e265cad8b43f53fcfd788542bac36b074",
+  "source": "https://img.youtube.com/vi/Mv5hf2aI5uA/maxresdefault.jpg"
+ },
+ "posters/OTuMpbjmzak.jpg": {
+  "bytes": 133300,
+  "sha256": "aa76a420ddb032f8898332e25e960653932ade82456d45c22d616faf7cdd3d9e",
+  "source": "https://img.youtube.com/vi/OTuMpbjmzak/maxresdefault.jpg"
+ },
+ "posters/Y-HG0lXgznA.jpg": {
+  "bytes": 115272,
+  "sha256": "928110c3b5500786ff76e017eb4bea37b6f384005470e6b0cb42ab53a2882505",
+  "source": "https://img.youtube.com/vi/Y-HG0lXgznA/maxresdefault.jpg"
+ },
+ "posters/hwktlJNbjjo.jpg": {
+  "bytes": 68310,
+  "sha256": "001339ec9051a55fdb8386bd74809526683490079d703259dbf6167bc3b6da4e",
+  "source": "https://img.youtube.com/vi/hwktlJNbjjo/maxresdefault.jpg"
+ },
+ "posters/mX4bQaQYy5I.jpg": {
+  "bytes": 179360,
+  "sha256": "76b8aef9ae6fc2ea82ef3025e52bf15f5f74f2e087f63a393b457fc146f98d71",
+  "source": "https://img.youtube.com/vi/mX4bQaQYy5I/maxresdefault.jpg"
+ },
+ "posters/o2K0U1ZKncY.jpg": {
+  "bytes": 117583,
+  "sha256": "e8376c81a44f89d69e75d80c79a23803ef0f6fa29d62834511f3fca20a77244f",
+  "source": "https://img.youtube.com/vi/o2K0U1ZKncY/maxresdefault.jpg"
+ },
+ "posters/zg7azS3Y_A0.jpg": {
+  "bytes": 125511,
+  "sha256": "d7ac72485da228afbf97ea58bc5ec99d41daf85db7464dc14b817078f532015e",
+  "source": "https://img.youtube.com/vi/zg7azS3Y_A0/maxresdefault.jpg"
+ },
+ "posters/zu6Swo7gMBM.jpg": {
+  "bytes": 24346,
+  "sha256": "fcfdea0d8de757e4db5d093123ccb84e5be4ef88f1fce3da9e190a42546d4bf6",
+  "source": "https://img.youtube.com/vi/zu6Swo7gMBM/hqdefault.jpg"
+ }
+}

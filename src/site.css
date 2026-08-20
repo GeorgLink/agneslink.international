@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Scan the generated pages. Explicit, because site/ is build output and
+   automatic content detection skips ignored paths. */
+@source "../docs/**/*.html";
+
+@import "./fonts.css";
+@import "./theme.css";

@@ -1,0 +1,561 @@
+{
+ "slug": "youth-groups",
+ "title": "Youth groups",
+ "url": "/youth-groups/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": {
+    "color": "#ffffff"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": {
+    "color": "#f7f7f7"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 3,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 5,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 6,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 7,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 8,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 9,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 10,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 11,
+   "structure": null,
+   "background": {
+    "color": "#d2e9e1"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 753
+   }
+  },
+  {
+   "index": 12,
+   "structure": "20",
+   "background": {
+    "color": "#003e53"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "a-ct youth groups in tanzania",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "count me in",
+   "href": "#",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "YOUTH GROUPS UNDER AGRI-CONNECT TANZANIA",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Uomboni Youth Group - 17.9.2018",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The first meeting with Young people was done in Marangu Uomboni and it became the first group organized under A-CT. The group started with 30 people who are still active members. The group have been the first one to be considered on the micro credit program. Four small projects have been supported under Micro credit system.",
+   "html": "<p>The first meeting with Young people was done in Marangu Uomboni and it became the first group organized under A-CT. The group started with 30 people who are still active members. The group have been the first one to be considered on the micro credit program. Four small projects have been supported under Micro credit system.</p>",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Youth groups under agri-connect tanzania",
+   "align": "center",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/agri-connect-tanzania1.jpg",
+   "title": "agri-connect-tanzania1",
+   "width": 1400,
+   "height": 680,
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/Agnes-Link-with-Karamsingi-Youth-Group-after-their-meeting-on-22.9.2018.jpg",
+   "title": "Agnes Link with Karamsingi Youth Group after their meeting on 22.9.2018",
+   "width": 4032,
+   "height": 1960,
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Karamsingi Youth Group - 22.9.2018",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This was the second group to be established with 17 members who kept increasing to 25+-. This is the first group to supported by Micro credit system to the group. And the credits were returned back on time. lives have been improved in a way that motivates to keep going.",
+   "html": "<p>This was the second group to be established with 17 members who kept increasing to 25+-. This is the first group to supported by Micro credit system to the group. And the credits were returned back on time. lives have been improved in a way that motivates to keep going. </p>",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Kilala Youth Group 20.9.2028",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This group was established on the secomd meeting the day everybody was clear of the idea. The grouüp is stiöll active and most of them works on fish invstment.",
+   "html": "<p>This group was established on the secomd meeting the day everybody was clear of the idea. The grouüp is stiöll active and most of them works on fish invstment.</p>",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/agri-connect-tanzania4.jpg",
+   "title": "agri-connect-tanzania4",
+   "width": 1400,
+   "height": 681,
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Njiapanda Himo Youth group - July 2019",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This group came into being after they heard about Agri connect Tanzania on media platforms Youtube and Face book. then they called us and we arranged a day for a meeting. after they were clear them themselves established this group and it is stil active.",
+   "html": "<p>This group came into being after they heard about Agri connect Tanzania on media platforms Youtube and Face book. then they called us and we arranged a day for a meeting. after they were clear them themselves established this group and it is stil active. </p>",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20191019_204448-scaled.jpg",
+   "title": "20191019_204448",
+   "width": 2560,
+   "height": 1580,
+   "section": 5,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/CHEKERENI-picha.jpg",
+   "title": "CHEKERENI picha",
+   "width": 2000,
+   "height": 1124,
+   "section": 6,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Chekereni Youth group - July 2019",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This grouü was also after people in Njiapand hears about A-CT on media platforms. It is one of the group has benefited fro our micro credit system.",
+   "html": "<p>This grouü was also after people in Njiapand hears about A-CT on media platforms. It is one of the group has benefited fro our micro credit system. </p>",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Zinga Youth group -",
+   "section": 7,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This group was organized by tone of the A-CT  ambasador who is from the very first team of 50 youth we equiped each other on whatsup group. It has also benefited from our mictro credit the credit whic was provided to the group. It is located in Zinga Bagamoyo. The group ambassador is called Efraim Rubasha.",
+   "html": "<p>This group was organized by tone of the A-CT  ambasador who is from the very first team of 50 youth we equiped each other on whatsup group. It has also benefited from our mictro credit the credit whic was provided to the group. It is located in Zinga Bagamoyo. The group ambassador is called Efraim Rubasha.</p>",
+   "section": 7,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 7,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20191105_210542-scaled.jpg",
+   "title": "20191105_210542",
+   "width": 2560,
+   "height": 2329,
+   "section": 7,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Igura Mabu Youth group -",
+   "section": 8,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This group is located in Shinyanga Region. .",
+   "html": "<p>This group is located in Shinyanga Region. .</p>",
+   "section": 8,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 8,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20191025_232745-scaled.jpg",
+   "title": "20191025_232745",
+   "width": 2560,
+   "height": 1996,
+   "section": 8,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20191025_233834-scaled.jpg",
+   "title": "20191025_233834",
+   "width": 2560,
+   "height": 1526,
+   "section": 9,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Bugweto B Youth group -",
+   "section": 9,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This group is located in Shinyanga Region.",
+   "html": "<p>This group is located in Shinyanga Region. </p>",
+   "section": 9,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 9,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agri-Connect Tanzania Team - Northern Zone",
+   "section": 10,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The team has 8 members who are currently volunteering. The team members are equiped to support the project anywhere in Tanzania they may be requested. But basically they belong to Northern Zone that covers Kilimanjaro, Arusha, Tanga, Babati and Manyara. The team is determined to work as an example to the rest other groups. \n\nThe team resides in the compound where Agri-Connect Tanzania headquator offices are. They are involved in vegetable production and on chicken keeping. all intended for business but also for example other young people from other groups to see and learn.",
+   "html": "<p>The team has 8 members who are currently volunteering. The team members are equiped to support the project anywhere in Tanzania they may be requested. But basically they belong to Northern Zone that covers Kilimanjaro, Arusha, Tanga, Babati and Manyara. The team is determined to work as an example to the rest other groups. </p><p><span style=\"font-size: 14px;\">The team resides in the compound where Agri-Connect Tanzania headquator offices are. They are involved in vegetable production and on chicken keeping. all intended for business but also for example other young people from other groups to see and learn. </span></p><p> </p>",
+   "section": 10,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": null,
+   "align": "left",
+   "section": 10,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/P1110719.jpg",
+   "title": "P1110719",
+   "width": 1920,
+   "height": 1080,
+   "section": 10,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 10,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "MORE ABOUT THE MEETINGS DONE WITH THE GROUPS Please follow us on Youtube",
+   "align": "center",
+   "section": 11,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=hwktlJNbjjo",
+   "id": "hwktlJNbjjo",
+   "section": 11,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "testimonial",
+   "markdown": "I believe whatever one does out of own willingness and motivation does it better. in establishimg the groups, young people are given chance to decide it on themselves and agree on their own leaders. the only leader decided by the A-CT Management is the Group Ambassadors. So the process starts by A:CT team vising younth in a certain community and share the idea and leave them room to decide. the going in the begining was called by A-CT organizing the youth to gather and have a meeting with, but later on after A-CT updates are available on media platforms, yoputh call and request to be attended and A-CT made schedules to attend meetings with them.",
+   "name": "agnes link",
+   "role": "NGO Founder",
+   "image": {
+    "src": "assets/2019/09/NEW-PICTURE-3.jpg",
+    "title": "NEW PICTURE (3)",
+    "width": 1922,
+    "height": 1230
+   },
+   "section": 11,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 11,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon",
+   "icon": "fab fa-youtube",
+   "href": null,
+   "section": 12,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agri-Connect Tanzania",
+   "section": 12,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "SUBSCRIBE NOW",
+   "href": null,
+   "align": "right",
+   "section": 12,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

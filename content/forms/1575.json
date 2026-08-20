@@ -1,0 +1,106 @@
+{
+ "id": "1575",
+ "title": "Sponsorship",
+ "fields": [
+  {
+   "name": "sponsorship",
+   "type": "checkbox",
+   "required": true,
+   "options": [
+    "... a young person (mindset changing) who wants to shape his own future - 10 Euro / month",
+    "... training (capacity building) - 20 Euro / month",
+    "... corporate project (micro credit)  - 150 Euro / month",
+    "... a young person who will be trained in Germany in order to be able to use his knowledge in his home country again afterwards - 600 Euro / month",
+    "... I am interested in a trip",
+    "... I leave it to the organizers to use the funds where they are useful (specify amount)"
+   ]
+  },
+  {
+   "name": "amount",
+   "type": "text",
+   "required": false,
+   "options": [
+    "Optional and only for individual use by the organizers in Euro"
+   ]
+  },
+  {
+   "name": "period",
+   "type": "checkbox",
+   "required": false,
+   "options": [
+    "per month",
+    "per quarter",
+    "per year",
+    "one time"
+   ]
+  },
+  {
+   "name": "your-name",
+   "type": "text",
+   "required": true,
+   "options": [
+    "Your full name"
+   ]
+  },
+  {
+   "name": "your-company",
+   "type": "text",
+   "required": false,
+   "options": [
+    "Your company"
+   ]
+  },
+  {
+   "name": "city",
+   "type": "text",
+   "required": false,
+   "options": [
+    "ZIP code and city"
+   ]
+  },
+  {
+   "name": "your-email",
+   "type": "email",
+   "required": true,
+   "options": [
+    "Your e-mail"
+   ]
+  },
+  {
+   "name": "tel-636",
+   "type": "tel",
+   "required": false,
+   "options": [
+    "Your phone number"
+   ]
+  },
+  {
+   "name": "your-message",
+   "type": "textarea",
+   "required": false,
+   "options": [
+    "Your can leave us a message here."
+   ]
+  },
+  {
+   "name": "acceptance-752",
+   "type": "acceptance",
+   "required": false,
+   "options": []
+  },
+  {
+   "name": "website",
+   "type": "honeypot",
+   "required": false,
+   "options": []
+  },
+  {
+   "name": "mail",
+   "type": "honeypot",
+   "required": false,
+   "options": []
+  }
+ ],
+ "recipient": "peter.w.link@gmail.com",
+ "template": "<label>I want to support the projects and take over a sponsorship for ...</label>\n[checkbox* sponsorship use_label_element \"... a young person (mindset changing) who wants to shape his own future - 10 Euro / month\" \"... training (capacity building) - 20 Euro / month\" \"... corporate project (micro credit)  - 150 Euro / month\" \"... a young person who will be trained in Germany in order to be able to use his knowledge in his home country again afterwards - 600 Euro / month\" \"... I am interested in a trip\" \"... I leave it to the organizers to use the funds where they are useful (specify amount)\"]\n\n<label>Amount (Euro)\n[text amount placeholder \"Optional and only for individual use by the organizers in Euro\"]</label>\n\n<label>Period\n[checkbox period use_label_element \"per month\" \"per quarter\" \"per year\" \"one time\"]</label>\n\n<label>I can terminate my support at any time without notice.</label>\n\n\n    [text* your-name placeholder \"Your full name\"] \n\n    [text your-company placeholder \"Your company\"]\n\n    [text city placeholder \"ZIP code and city\"]\n\n    [email* your-email placeholder \"Your e-mail\"]\n\n    [tel tel-636 placeholder \"Your phone number\"]\n\n    [textarea your-message placeholder \"Your can leave us a message here.\"]\n\n[acceptance acceptance-752] I have read and understood the privacy policy. I agree that my details and data will be collected and stored electronically to answer my enquiry. Note: You can revoke your consent at any time for the future.* [/acceptance]\n\n[honeypot website]\n[honeypot mail]\n\n[submit \"Support\"]"
+}

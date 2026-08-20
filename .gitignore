@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.tmp.png
+
+# Full-resolution source photography is kept outside the repo; docs/assets/img
+# holds the optimised WebP the site actually serves.
+source-images/

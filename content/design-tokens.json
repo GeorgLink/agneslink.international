@@ -1,0 +1,82 @@
+{
+ "site": {
+  "name": "Agnes Link",
+  "locale": "de-DE"
+ },
+ "colors": {
+  "primary": "#23a455",
+  "primary_hover": "#23a455",
+  "link_hover": "#23a455",
+  "menu_link": "#000000",
+  "menu_link_hover": "#23a455",
+  "menu_effect": "#00c160",
+  "logo": "#504992",
+  "background": "#ffffff",
+  "button_background": "#23a455",
+  "dropdown_background": "#ffffff",
+  "dropdown_border": "#f1f1f1"
+ },
+ "accents": [
+  "#ffffff",
+  "#ff7052",
+  "#00a33e",
+  "#f0990c",
+  "#3f0705",
+  "#474545",
+  "#8daca6",
+  "#e5e5e5",
+  "#b6baba",
+  "#000000",
+  "#54595f",
+  "#e4bc36"
+ ],
+ "typography": {
+  "logo": {
+   "letter-spacing": "3",
+   "font-family": "Mouse Memoirs",
+   "font-size": "60px",
+   "text-transform": "uppercase",
+   "line-height": "1.3"
+  },
+  "logo_mobile": {
+   "font-size": "50px"
+  },
+  "menu": {
+   "font-size": "30px",
+   "font-weight": "600",
+   "text-transform": "uppercase",
+   "font-family": "Mouse Memoirs",
+   "letter-spacing": "2"
+  },
+  "menu_dropdown": {
+   "font-family": "Verdana, Geneva, sans-serif",
+   "text-transform": "uppercase",
+   "letter-spacing": "1.3"
+  },
+  "top_menu": {
+   "font-family": "Lucida Sans Unicode, Lucida Grande, sans-serif",
+   "text-transform": "uppercase",
+   "font-size": "15px",
+   "letter-spacing": "2.2"
+  }
+ },
+ "header": {
+  "style": "minimal",
+  "height": "55",
+  "menu_position": "right-menu",
+  "mobile_breakpoint": "1080",
+  "mobile_menu_style": "dropdown",
+  "logo_image": null,
+  "logo_is_text": true,
+  "top_bar_enabled": false
+ },
+ "footer": {
+  "fixed": true,
+  "copyright": "Copyright [year] by Agnes Link - All rights reserved."
+ },
+ "button": {
+  "background": "#23a455",
+  "hover_background": "#23a455",
+  "border_radius": "3"
+ }
+}

@@ -1,0 +1,350 @@
+{
+ "slug": "audio-dvd",
+ "title": "Audio & DVD",
+ "url": "/audio-dvd/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "21",
+   "background": {
+    "image": {
+     "src": "assets/2019/10/AUDIO-BABA-NAKUSHUKURU-e1570597664165.png",
+     "title": "AUDIO - BABA NAKUSHUKURU",
+     "width": 1535,
+     "height": 1097
+    },
+    "overlay_color": "rgba(255,255,255,0.74)"
+   },
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": "22",
+   "background": {
+    "image": {
+     "src": "assets/2019/10/AUDIO-BABA-NAKUSHUKURU.png",
+     "title": "AUDIO - BABA NAKUSHUKURU",
+     "width": 1535,
+     "height": 1097
+    },
+    "overlay_color": "rgba(255,255,255,0.74)"
+   },
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": "22",
+   "background": {
+    "image": {
+     "src": "assets/2019/10/AUDIO-BABA-NAKUSHUKURU.png",
+     "title": "AUDIO - BABA NAKUSHUKURU",
+     "width": 1535,
+     "height": 1097
+    },
+    "overlay_color": "rgba(255,255,255,0.74)"
+   },
+   "content_width": null
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": {
+    "color": "#ffffff",
+    "image": {
+     "src": "assets/2019/10/foodiesfeed.com_meanwhile-in-the-kitchen-1.jpg",
+     "title": "foodiesfeed.com_meanwhile-in-the-kitchen-1.jpg",
+     "width": 1500,
+     "height": 686
+    },
+    "overlay_color": "rgba(0, 0, 0, 0.48)",
+    "overlay_opacity": "0.6px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 777
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": {
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "940"
+   }
+  },
+  {
+   "index": 5,
+   "structure": "20",
+   "background": {
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "940"
+   }
+  },
+  {
+   "index": 6,
+   "structure": null,
+   "background": {
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "assets/2019/10/20190930_193606.png",
+   "title": "20190930_193606",
+   "width": 1382,
+   "height": 1113,
+   "section": 0,
+   "column": 0,
+   "column_width": 33
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "FIRST CD AUDIO-BABA NAKUSHUKURU",
+   "align": "left",
+   "section": 0,
+   "column": 1,
+   "column_width": 66
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The Album production started September 2018 when I firstly recorded the vision song 'Baba nakushukuru'. then same September the second song 'Watu wangu wote' and the third song 'Hakika wewe ni Mungu mkuu' were recorded. The rest 5 songs were recorded in January 2019 and immediately the album was closed with 8 songs. The two songs are sang in German Language while 6 songs in Kiswahili. The album was officially released to AgnesLink Channel as Lyrics and the CD was printed and start being distrubuted, January 2019.",
+   "section": 0,
+   "column": 1,
+   "column_width": 66
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "FIRST DVD-BABA NAKUSHUKURU",
+   "align": "left",
+   "section": 1,
+   "column": 0,
+   "column_width": 66
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Video was done in Kilimanjaro Region Janury 2019, and was officially released AgnesLink Channel June, 2019.",
+   "section": 1,
+   "column": 0,
+   "column_width": 66
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/20190930_193526.jpg",
+   "title": "20190930_193526",
+   "width": 1412,
+   "height": 1137,
+   "section": 1,
+   "column": 1,
+   "column_width": 33
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/Agness-AUDIO-Cover-Baba-Nakushukuru-SAMPLE-2.png",
+   "title": "Agness AUDIO Cover - Baba Nakushukuru - SAMPLE 2",
+   "width": 2924,
+   "height": 2480,
+   "section": 2,
+   "column": 0,
+   "column_width": 66
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "BABA NAKUSHUKURU CD Journey",
+   "align": "left",
+   "section": 2,
+   "column": 1,
+   "column_width": 33
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "January, 2019 first printing was done and 600 CDs were printed in Tanzania and in three months there were all distributed to different people in different regions in Tanzania Including Kilimanjaro, Arusha, Dodoma, Dar es Salaam and Mwanza. In April, 2019 second Printing was done in Germany and 1000 CDs were Printed. Same April I was opportuned to do an official concert in Vermont and more than 70 CDs were distributed. In US I was opportuned to visit Chicago, New York, Nebraska Omaha, Boston and in all Cities i went a number of CDs were distributed. So in this 2 weeks trip to America 210 Cds were distributed. Until now more than 1,500 twousands CD have been distributed in different countries i have visited in the year 2019 from Janury to September. These countries includes, Tanzania, Germany, United Kindoms (London&Liverpool), Mexico, Canada, Nigeria, South Africa, Greece, Turkey, and Kenya. Considering the songs are new from my own writting, the singer is new in the industry, this is a big achievement from humble start. I cant stop thanking God and thanking you all for your support. You have all made it possible my singimg to be a big support for the Project under Agri Connect Tanzania, which have been my wish.",
+   "section": 2,
+   "column": 1,
+   "column_width": 33
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "CD \"BABA NAKUSHUKURU HAS KEPT GOING GLOBAL",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Your copy is surely on its way ...",
+   "align": "left",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#eaeaea",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052534_Instagram.jpg",
+     "title": "Screenshot_20191009-052534_Instagram",
+     "width": 1075,
+     "height": 935
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052457_Instagram.jpg",
+     "title": "Screenshot_20191009-052457_Instagram",
+     "width": 1080,
+     "height": 1243
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052355_Instagram.jpg",
+     "title": "Screenshot_20191009-052355_Instagram",
+     "width": 1070,
+     "height": 860
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052328_Instagram.jpg",
+     "title": "Screenshot_20191009-052328_Instagram",
+     "width": 1058,
+     "height": 1229
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052303_Instagram.jpg",
+     "title": "Screenshot_20191009-052303_Instagram",
+     "width": 1006,
+     "height": 1237
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052228_Instagram.jpg",
+     "title": "Screenshot_20191009-052228_Instagram",
+     "width": 1071,
+     "height": 1076
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052151_Instagram.jpg",
+     "title": "Screenshot_20191009-052151_Instagram",
+     "width": 1080,
+     "height": 1235
+    },
+    {
+     "src": "assets/2019/10/Screenshot_20191009-052638_Instagram.jpg",
+     "title": "Screenshot_20191009-052638_Instagram",
+     "width": 1071,
+     "height": 730
+    },
+    {
+     "src": "assets/2019/10/IMG-20191003-WA0004.jpg",
+     "title": "IMG-20191003-WA0004",
+     "width": 768,
+     "height": 1024
+    }
+   ],
+   "columns": "3",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Get your copy NOW!",
+   "align": "left",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#eaeaea",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "Amselweg 2, D-63674 Altenstadt Germany",
+     "href": null
+    },
+    {
+     "text": "peter.w.link@gmail.com",
+     "href": null
+    },
+    {
+     "text": "(49) 160 90800222",
+     "href": null
+    },
+    {
+     "text": "(49) 160 90800222",
+     "href": null
+    }
+   ],
+   "icon_color": "#a3a3a3",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "map",
+   "query": "Altenstadt Germany",
+   "zoom": "10px",
+   "section": 5,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/agnes.kundy.5"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agneslinkofficial?igshid=rmo7rmv0nmfo"
+    },
+    {
+     "network": "whatsapp",
+     "href": "+4915206542334"
+    },
+    {
+     "network": "skype",
+     "href": "agnes.edward"
+    }
+   ],
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

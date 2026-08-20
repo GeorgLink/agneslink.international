@@ -1,0 +1,173 @@
+{
+ "slug": "concerts",
+ "title": "Concerts",
+ "url": "/concerts/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": {
+    "color": "#ffffff",
+    "image": {
+     "src": "assets/2020/04/website-we-do-concerts-1.jpg",
+     "title": "website we do concerts 1",
+     "width": 1280,
+     "height": 720
+    },
+    "overlay_color": "#000000",
+    "overlay_opacity": "0.6px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 777
+   }
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": {
+    "color": "#3a3a3a",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "940"
+   }
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": {
+    "image": {
+     "src": "assets/2020/04/website-we-do-concerts-1.jpg",
+     "title": "website we do concerts 1",
+     "width": 1280,
+     "height": 720
+    },
+    "overlay_color": "#000000E0",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "940"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "We do concerts",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "After my singing career started as a surprise to me, I found two strong reasons why I should keep singing. \n\n1. it is part of evangelising, giving me chance to bring Pure gospel, Pure word of God and Pure reality message to the world. \n\n2. To sponsor A-CT Project. It is my vision singing to be source of funds for the youth Project done under Agri-Connect Tanzania. So I give people chance to support by doing Beneficial concerts which part of the meeting I perform my own songs, we dance and have fun. The songs which are in different language we provide their translation accordingly on powerpoint.\n\nAnother part of the meeting goes for the powerpoint presentation on the project in Tanzania. It is also in the concert session people get chance to have my CD and also to donate for the project. There is always a chance to ask and be answered.",
+   "html": "<p>After my singing career started as a surprise to me, I found two strong reasons why I should keep singing. </p><p>1. it is part of evangelising, giving me chance to bring Pure gospel, Pure word of God and Pure reality message to the world. </p><p>2. To sponsor A-CT Project. It is my vision singing to be source of funds for the youth Project done under Agri-Connect Tanzania. So I give people chance to support by doing Beneficial concerts which part of the meeting I perform my own songs, we dance and have fun. The songs which are in different language we provide their translation accordingly on powerpoint.</p><p>Another part of the meeting goes for the powerpoint presentation on the project in Tanzania. It is also in the concert session people get chance to have my CD and also to donate for the project. There is always a chance to ask and be answered.</p>",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "MY VERY FIRST OFFICIAL CONCERT WAS IN VERMONT, US IN APRIL 2019",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=Y-HG0lXgznA",
+   "id": "Y-HG0lXgznA",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "“The love warm welcoming in Vermont was incredible.”",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "spacer",
+   "height": "10px",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "testimonial",
+   "markdown": "It was an incredible experience for me. Being the first official Concert; being their as a new Singer performing 5 songs from my own writting and singing, watching and hearing the joyful responce from the audience, was incredible and unexplainable feeling. Being a Tanzanian, this concert was in America and they were all happy and positive regardless of not knowing the Kiswahili language. People could easily follow the English translation on the powerpoint and it was incredible. \\\n\\\nThey invited me again and I received couple of mails FROM their positive responces. Many bought my Cd Baba Nakushukuru. Thank you all for making me proud for the glory of God.",
+   "name": "AGNES LINK",
+   "role": "",
+   "image": {
+    "src": "assets/2019/10/Screenshot_20191009-065245_Instagram.jpg",
+    "title": "Screenshot_20191009-065245_Instagram",
+    "width": 1073,
+    "height": 1148
+   },
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "do you wish to support youth project WE ARE doing through organizing beneficial concert in your community? PART OF THE MEETING music performing and ANOTHE PART FOR project powerpoint presentation? Please contact US on:",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#eaeaea",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "Amselweg 2, D-63674 Altenstadt Germany",
+     "href": null
+    },
+    {
+     "text": "peter.w.link@gmail.com",
+     "href": null
+    },
+    {
+     "text": "(49) 160 90800222",
+     "href": null
+    },
+    {
+     "text": "(49) 160 90800222",
+     "href": null
+    }
+   ],
+   "icon_color": "#FFFFFF",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "map",
+   "query": "Amselweg 2,Frankfurt. D-63674 Altenstadt",
+   "zoom": "10px",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

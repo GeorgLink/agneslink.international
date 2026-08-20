@@ -1,0 +1,179 @@
+/* Design tokens for agneslink.international.
+   Neutrals are chosen, not inherited: both the light and dark grounds carry a
+   warm ochre bias so they sit under the Tanzanian photography rather than
+   fighting it. */
+
+@theme {
+  --color-ink:        #221c19;
+  --color-paper:      #fbf8f4;
+  --color-surface:    #ffffff;
+  --color-muted:      #6d635c;
+  --color-rule:       #e7e0d8;
+
+  --color-brand:      #23a455;  /* Agri-Connect Tanzania */
+  --color-brand-deep: #00a33e;
+  --color-plum:       #504992;  /* AgnesLink Channel */
+  --color-coral:      #ff7052;  /* general accent */
+  --color-amber:      #f0990c;
+  --color-teal:       #003e53;
+
+  --font-display: "Mouse Memoirs", "Playfair Display", Georgia, serif;
+  --font-heading: "Playfair Display", Georgia, "Times New Roman", serif;
+  --font-body: Verdana, "Lucida Sans Unicode", "Lucida Grande", Geneva, sans-serif;
+
+  --radius-card: 3px;
+}
+
+/* Dark ground. Tailwind v4 emits the theme as real custom properties, so
+   redefining them here retints every utility built from them. Guarded so an
+   explicit light choice still beats a dark OS setting. */
+@layer base {
+  :root:not([data-theme="light"]) {
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --color-ink:     #f3ede7;
+      --color-paper:   #191512;
+      --color-surface: #221d19;
+      --color-muted:   #a99d93;
+      --color-rule:    #3a3028;
+      --color-brand:      #3cc470;
+      --color-brand-deep: #46d07c;
+      --color-plum:       #a99ceb;
+      --color-coral:      #ff8f76;
+      --color-amber:      #f5ae3c;
+      --color-teal:       #7fc4dd;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --color-ink:     #f3ede7;
+    --color-paper:   #191512;
+    --color-surface: #221d19;
+    --color-muted:   #a99d93;
+    --color-rule:    #3a3028;
+    --color-brand:      #3cc470;
+    --color-brand-deep: #46d07c;
+    --color-plum:       #a99ceb;
+    --color-coral:      #ff8f76;
+    --color-amber:      #f5ae3c;
+    --color-teal:       #7fc4dd;
+  }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    line-height: 1.75;
+  }
+
+  h1, h2, h3, h4 { font-family: var(--font-heading); text-wrap: balance; }
+
+  p, li, td, dd, address, figcaption { overflow-wrap: break-word; }
+
+  :focus-visible {
+    outline: 3px solid var(--color-coral);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: .01ms !important;
+      transition-duration: .01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* The German legal pages carry bare URLs up to 58 characters long. Without
+     this they push narrow viewports sideways; the typography plugin's
+     `.prose :where(p)` selectors out-specify a plain base-layer rule, so the
+     override has to live here. */
+  .prose p, .prose li, .prose a, .prose td, .prose h1, .prose h2, .prose h3 {
+    overflow-wrap: anywhere;
+  }
+
+  /* The site carries two identities. `data-branch` re-tints the shared
+     components rather than duplicating them: green for the organisation, plum
+     for the music channel. */
+  [data-branch="ngo"]   { --accent: var(--color-brand); }
+  [data-branch="music"] { --accent: var(--color-plum); }
+  [data-branch="general"], :root { --accent: var(--color-coral); }
+
+  .eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: .18em;
+    color: var(--accent);
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+
+  .rule-accent {
+    width: 3.5rem;
+    height: 3px;
+    background: var(--accent);
+    border: 0;
+  }
+
+  .btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    padding: .7rem 1.6rem;
+    border-radius: var(--radius-card);
+    font-size: .82rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color .18s ease;
+  }
+  .btn:hover { background: var(--color-coral); }
+
+  .btn-ghost {
+    display: inline-block;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    padding: .7rem 1.6rem;
+    border-radius: var(--radius-card);
+    font-size: .82rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color .18s ease, color .18s ease;
+  }
+  .btn-ghost:hover { background: var(--accent); color: #fff; }
+
+  /* Play badge for the self-hosted video posters. No JS: the whole card is a
+     link that opens the video in a new tab. */
+  .play::after {
+    content: "";
+    position: absolute;
+    inset: 50% auto auto 50%;
+    translate: -50% -50%;
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 50%;
+    background: color-mix(in srgb, var(--color-plum) 88%, transparent);
+    box-shadow: 0 6px 26px rgb(0 0 0 / .35);
+    transition: scale .2s ease, background-color .2s ease;
+  }
+  .play::before {
+    content: "";
+    position: absolute;
+    inset: 50% auto auto 50%;
+    translate: -38% -50%;
+    z-index: 2;
+    border-style: solid;
+    border-width: .72rem 0 .72rem 1.15rem;
+    border-color: transparent transparent transparent #fff;
+  }
+  .play:hover::after { scale: 1.08; background: var(--color-coral); }
+}

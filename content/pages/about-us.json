@@ -1,0 +1,857 @@
+{
+ "slug": "about-us",
+ "title": "About us",
+ "url": "/about-us/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": {
+    "image": {
+     "src": "assets/2019/09/LOGO_small.png",
+     "title": "LOGO_small",
+     "width": 187,
+     "height": 169
+    },
+    "overlay_color": "#734D0E",
+    "overlay_opacity": "0.8px"
+   },
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": {
+    "color": "#ffffff"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "1000"
+   }
+  },
+  {
+   "index": 2,
+   "structure": null,
+   "background": {
+    "image": {
+     "src": "assets/2019/09/LOGO_small.png",
+     "title": "LOGO_small",
+     "width": 187,
+     "height": 169
+    },
+    "overlay_color": "#734D0E",
+    "overlay_opacity": "0.8px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "1000"
+   }
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": {
+    "color": "#e3e4e8",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": {
+    "color": "#ffffff",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "1140"
+   }
+  },
+  {
+   "index": 5,
+   "structure": null,
+   "background": {
+    "color": "#e3e4e8",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 6,
+   "structure": null,
+   "background": {
+    "image": {
+     "src": "assets/2019/10/study-footer.jpg",
+     "title": "study-footer.jpg",
+     "width": 1600,
+     "height": 932
+    },
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "About Us",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "divider",
+   "color": "#ffffff",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**OUR CORE VALUES**",
+   "html": "<p><strong>OUR CORE VALUES</strong></p>",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon",
+   "icon": "far fa-arrow-alt-circle-down",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Commitment; Respect; Transparency; Accountability; Integrity; Innovation; Creativity; Teamwork; Volunteerism; Quality; Environment Friendly; Result Focus; Cooperation; Help each other; Togetherness; Love;",
+   "html": "<p>Commitment; Respect; Transparency; Accountability; Integrity; Innovation; Creativity; Teamwork; Volunteerism; Quality; Environment Friendly; Result Focus; Cooperation; Help each other; Togetherness; Love;</p>",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon",
+   "icon": "far fa-arrow-alt-circle-down",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "If you want to learn more about us, you're in the right place. Read to learn how  our project have kept developing from small humble stage as just a simple idea posted on facebook page to an NGO which supports millions of  people in need particularly Youths.",
+   "html": "<p>If you want to learn more about us, you're in the right place. Read to learn how  our project have kept developing from small humble stage as just a simple idea posted on facebook page to an NGO which supports millions of  people in need particularly Youths.</p>",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Connect and learn more from our social media",
+   "href": "/mission/",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UCBj1ncZUeE0evzpqvWG-xzg"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/pages/category/Youth-Organization/Agri-Connect-Tanzania-103463751030825/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agriconnecttanzania?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Our story",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=zu6Swo7gMBM&list=PLBxN_ClgX35uxlq-5mIwXF9ewLxTeaXc0&index=2",
+   "id": "zu6Swo7gMBM",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/AGNES-WEB1111111-scaled.jpg",
+   "title": "AGNES WEB1111111",
+   "width": 1707,
+   "height": 2560,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Edward Link",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "NGO Founder",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "A dedicated and highly committed, enthusiastic MBA graduate specializing in International Business. I have graduated Master’s in Business Administration (MBA), Master’s in International Hospitality &Tourism Management and BA in Sociology. I am an excellent team player who has a mature and flexible approach to work, with strong IT, interpersonal skills and the ability to communicate and negotiate concisely at all levels. I enjoy being part of a team and thrive in new and challenging working environments. Highly organized, self-motivated individual with the ability to develop, creative and solutions to problems with good analytical skills.\n\nI seek to use my professional expertise to focus more on enhancing community development; through involving  poverty reduction/eradication strategies; but strictly focusing on areas that engages the community directly.",
+   "html": "<p>A dedicated and highly committed, enthusiastic MBA graduate specializing in International Business. I have graduated Master’s in Business Administration (MBA), Master’s in International Hospitality &amp;Tourism Management and BA in Sociology. I am an excellent team player who has a mature and flexible approach to work, with strong IT, interpersonal skills and the ability to communicate and negotiate concisely at all levels. I enjoy being part of a team and thrive in new and challenging working environments. Highly organized, self-motivated individual with the ability to develop, creative and solutions to problems with good analytical skills.</p><p>I seek to use my professional expertise to focus more on enhancing community development; through involving  poverty reduction/eradication strategies; but strictly focusing on areas that engages the community directly. </p>",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "There millions of people in didfferent groups who are not yet reached. why starting with youth? I  believe so much on the young generation who carries not only visions but also they are full of energy.  This is the reson why my first practical acting towards Community Development has started with the young group. \n\n As a community development pioneers my focus is on three things which never be left behind on whatever I tend to do: \n\n1. Agriculture: As a farmer, Entrepreneur and Consultant from a farming background, it is my plan to invest in farming, whereby I can have big farms producing food. This will contribute to the community development because it will provide employment to the youth who can be either educated or  less educated but able to understand farming practices when trained. I will train farmers who will work for me and those who will use the knowledge to farm on their own. Majority of Tanzanian are engaged more in Agriculture sector than to other sectors. Therefore, there is need to be done in helping Tanzanians from living poverty, by putting more effort in agriculture sector. It is my target to enhance community development by supporting or working with different groups particularly young people.\n\n1. Tourism: As a consultant, where there is chances:\n\nI will like to support destinations to maintain their competitive, innovative and sustainability in the industry and in their contribution towards poverty reduction, by providing technical and strategic consultancies in the area of tourism and natural resources management. This will touch directly environmental conservation which will also be practiced on  agriculture side. Tourism can build a more sustainable future for a nation and its people, so it shouldn't be left behind when planning for community development and expecially when  focusing on poverty reduction/eradication.\n\n1. Gender issues & youth development: As a Consultant/Counselor/Mentor, I seek to use my professional expertise to enhance the global community development by focusing on Gender issues, particularly cultural, economic and legal gender inequalities, which I believe are critical underlying factor in making progress in all development sectors in any community. I aim to support efforts done by different donors and institutions to operationalize gender equality, female empowerment and youth with serious addictions by providing technical and strategic consultancies aiming to bring  total recovering. Agnes’s model for community development, is being applied to reach those who are not yet reached. This involve any process that proves to support our mission for mindset changing, capacity building and material provision. On mindset changing processes like mental and spiritual consultancies that will involve counceling and reformation process is being considered accordingly.",
+   "html": "<p>There millions of people in didfferent groups who are not yet reached. why starting with youth? I  believe so much on the young generation who carries not only visions but also they are full of energy.  This is the reson why my first practical acting towards Community Development has started with the young group. </p><p> As a community development pioneers my focus is on three things which never be left behind on whatever I tend to do: </p><ol><li>Agriculture: As a farmer, Entrepreneur and Consultant from a farming background, it is my plan to invest in farming, whereby I can have big farms producing food. This will contribute to the community development because it will provide employment to the youth who can be either educated or  less educated but able to understand farming practices when trained. I will train farmers who will work for me and those who will use the knowledge to farm on their own. Majority of Tanzanian are engaged more in Agriculture sector than to other sectors. Therefore, there is need to be done in helping Tanzanians from living poverty, by putting more effort in agriculture sector. It is my target to enhance community development by supporting or working with different groups particularly young people.</li></ol><ol start=\"2\"><li>Tourism: As a consultant, where there is chances:</li></ol><p>I will like to support destinations to maintain their competitive, innovative and sustainability in the industry and in their contribution towards poverty reduction, by providing technical and strategic consultancies in the area of tourism and natural resources management. This will touch directly environmental conservation which will also be practiced on  agriculture side. Tourism can build a more sustainable future for a nation and its people, so it shouldn't be left behind when planning for community development and expecially when  focusing on poverty reduction/eradication.</p><ol start=\"3\"><li>Gender issues &amp; youth development: As a Consultant/Counselor/Mentor, I seek to use my professional expertise to enhance the global community development by focusing on Gender issues, particularly cultural, economic and legal gender inequalities, which I believe are critical underlying factor in making progress in all development sectors in any community. I aim to support efforts done by different donors and institutions to operationalize gender equality, female empowerment and youth with serious addictions by providing technical and strategic consultancies aiming to bring  total recovering. Agnes’s model for community development, is being applied to reach those who are not yet reached. This involve any process that proves to support our mission for mindset changing, capacity building and material provision. On mindset changing processes like mental and spiritual consultancies that will involve counceling and reformation process is being considered accordingly.</li></ol>",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "agri-Connect Team-Northern Zone",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/12/IMG-20191120-WA0008.jpg",
+   "title": "IMG-20191120-WA0008",
+   "width": 1008,
+   "height": 825,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Faraja James Ngomuo",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and NGO Acting Chief Secretary",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/12/IMG-20191119-WA0019.jpg",
+   "title": "IMG-20191119-WA0019",
+   "width": 810,
+   "height": 1080,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Sifuel Elimbinzi Nyaki",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and NGO's Driver",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/Said-Mbegu-website.jpg",
+   "title": "Said Mbegu website",
+   "width": 395,
+   "height": 593,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Said Mbegu",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and NGO's news Presenter & Camera man",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/AGNES-WEB1111111-scaled.jpg",
+   "title": "AGNES WEB1111111",
+   "width": 1707,
+   "height": 2560,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and NGO's Managing Director",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/12/447803936_160559.jpg",
+   "title": "447803936_160559",
+   "width": 1080,
+   "height": 720,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Williams Mathias Bunzil",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and NGO ACTING ACCOUNTANT",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20200325_145641.jpg",
+   "title": "20200325_145641",
+   "width": 1080,
+   "height": 1352,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Emanuel Livingston Temba",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and Youth Group organizers & Ambassador",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/KILALA-TAREHE-20.9.2018_Moment-2.jpg",
+   "title": "KILALA TAREHE 20.9.2018_Moment (2)",
+   "width": 345,
+   "height": 194,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Maria Mallyi",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and Youths Ambassador",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/mama-website.jpg",
+   "title": "mama website",
+   "width": 496,
+   "height": 702,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Mama Hortenzia Kundi",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team Guardian, Advisor & Role model",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/IMG-20200325-WA0026.jpg",
+   "title": "IMG-20200325-WA0026",
+   "width": 696,
+   "height": 1280,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Constancia Alfred Lekule",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and Youths groups Organizer & Ambassador",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/JAYLAN-KILONZO-WEBSITE-scaled.jpg",
+   "title": "JAYLAN KILONZO WEBSITE",
+   "width": 2560,
+   "height": 1707,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Jaylan Kilonzo",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and NGO's Journalist & Camera man",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/MDADA-WEBSITE-1-2-scaled.jpg",
+   "title": "MDADA WEBSITE 1 (2)",
+   "width": 2560,
+   "height": 1440,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hosiana Godfrey Msuya",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team and Youth Ambassador",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/20200417_102619.jpg",
+   "title": "20200417_102619",
+   "width": 266,
+   "height": 259,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Mama Janeth Shoo",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "A-CT Team Guardian, Advisor & Role model",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Land expected to be headquoters of Agri-Connect Tanzania",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The vision sees many lives being transformed from one stage to another; from saying I can`t to I can, from believing impossibles to possible, from being negative to positive. In considering its efficience in bringing lives to all these and more, there must be a serious transformation process to some lives, so the Founder of the NGO has decided to use her personal property (Land) as a place for the transformation centre. It is also in the same land the Agri-Connect Tanzania Head Offices are and will be.  The land is located in Kilimanjaro region, Hai District nearby Maili sita Catholic Church, \"Msufini Chini\" Ward.",
+   "html": "<p>The vision sees many lives being transformed from one stage to another; from saying I can`t to I can, from believing impossibles to possible, from being negative to positive. In considering its efficience in bringing lives to all these and more, there must be a serious transformation process to some lives, so the Founder of the NGO has decided to use her personal property (Land) as a place for the transformation centre. It is also in the same land the Agri-Connect Tanzania Head Offices are and will be.  The land is located in Kilimanjaro region, Hai District nearby Maili sita Catholic Church, \"Msufini Chini\" Ward. </p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/IMG-20200327-WA0054.jpg",
+   "title": "IMG-20200327-WA0054",
+   "width": 1024,
+   "height": 768,
+   "align": "center",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "WHAT IS OUR FRIENDS & SUPPORTERS SAYING...",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/Screenshot_20200325-234306_Gallery.jpg",
+   "title": "Screenshot_20200325-234306_Gallery",
+   "width": 1080,
+   "height": 1642,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Bettina Achenbach",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Owner and Marketing Manager, Achenbach Winery, Wonsheim (Germany)",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "\"I have been in Tanzania (January/February 2020). it is a blessed land and with the group we were opportuned to visit Agri-Connect Tanzania. i have been touched and inspired seeing how much young people are dedicated in working together as a team. I have seen a big effort from all but also Agnes's energy and commitment to help young people is very special. we will support her. For all these you will succeed and when you have suceeded please support others. There so many young people in Tanzania who can be supported by what you are doing. the same love and support Agnes is showing you, you must do the same to others to keep the development circle active and growing\" (Bettina)",
+   "markdown": "",
+   "icon": "fas fa-quote-right",
+   "href": null,
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/Screenshot_20200421-113101_Google.jpg",
+   "title": "Screenshot_20200421-113101_Google",
+   "width": 541,
+   "height": 523,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Beshop Fredrick Shoo",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Presiding Bishop of Evangelical Lutheran Church in Tanzania",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "\"Tanzania is a beautiful country with a young population who are under 35 years age. Youth population is about 60% of the whole population. I have come to know the good work done by Agri Connect Tanzania, which seek to raise awareness of young people and to motivate them in discovering their potentials. Agri Connect Tanzania has been successful under the leadership of Agnes Link who I know personally and who is a committed hard working young lady. Not only Agnes is highly committed but also a visionary committed and hard-working young lady. I am aware that through the activities of A-CT young people have managed to form small groups which seek to enable them to realize their potentials and discover opportunities around them for their economic wellbeing. I found this is important as I also believe on the power of togetherness. As a Presiding Bishop of Evangelical Lutheran Church in Tanzania, I highly recommend the activities of A-CT and all approve, national and International Community to support this incredible work that aims for community development. This project needs our support. My support, your support to A-CT makes a great difference in changing the lives of young people. All for community development\" (Bishop Fredrick Shoo)",
+   "markdown": "",
+   "icon": "fas fa-quote-right",
+   "href": null,
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/Screenshot_20200421-111510_Gallery.jpg",
+   "title": "Screenshot_20200421-111510_Gallery",
+   "width": 520,
+   "height": 583,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Peter Wighbert",
+   "align": "center",
+   "href": "p",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "CEO Eucomex AG (Germany)",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "\"I like the project of Agri-Connect Tanzania very much. I have personally spoke to Agnes and visited some of the youth meetings she chaired in Kilimanjaro (Marangu) and one in Shinyanga. I saw what is happening. The project targets the young people to be encouraged and supported by education and resource provision to make a positive change in Tanzania. It feels to me this is a very good approach to bring a positive change. I will promote Agri-Connect in Germany and to all people who are looking to support and help in a direct way. Let us join hands together and support this vision\" (Peter)",
+   "markdown": "",
+   "icon": "fas fa-quote-right",
+   "href": null,
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "facebook-f",
+     "href": "https://www.facebook.com/peter.w.link"
+    },
+    {
+     "network": "skype",
+     "href": "pewilink"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/peter_w_link?igshid=gbt8k0fb8b1d"
+    }
+   ],
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Learn from the idea which has come at a right time, to the right group of people",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Join Agri-Connect Tanzania on our movement towards community development. Join us and start building up the most wanted production and creativity arround your environment today. We make sure we all go through the process of \"Kijana kujiwezesha, vijana kuwezeshana na Vijana kuwezeshwa. We are in life times whereby creativity and innovation is the key of our productive and efficient hard working towards our stable  self independence towards community development.",
+   "html": "<p>Join Agri-Connect Tanzania on our movement towards community development. Join us and start building up the most wanted production and creativity arround your environment today. We make sure we all go through the process of \"Kijana kujiwezesha, vijana kuwezeshana na Vijana kuwezeshwa. We are in life times whereby creativity and innovation is the key of our productive and efficient hard working towards our stable  self independence towards community development. </p>",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "Working hours",
+   "markdown": "Monday- Friday: 8:00-15.30 Hrs \\\n(Phone until 15-30 Hrs)\\\nSaturday - 8:00-12:00",
+   "icon": "far fa-clock",
+   "href": null,
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "We are here",
+   "markdown": "Mailisita Moshi, \\\nP. O. Box 614\\\nKilimanjaro Region - Tanzania \\\nEmail: agnesier@yahoo.com\\\n Phone:\\\n Fax:",
+   "icon": "fas fa-map-marker-alt",
+   "href": "https://www.google.com/maps/dir/Mt+Kilimanjaro,+Tanzania/Tanzania/",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "map",
+   "query": "Mailisita Moshi, Kilimanjaro Region, Tanzania",
+   "zoom": "10px",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

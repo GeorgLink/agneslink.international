@@ -1,0 +1,352 @@
+{
+ "slug": "about-me",
+ "title": "About Me",
+ "url": "/about-me/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": "20",
+   "background": {
+    "image": {
+     "src": "assets/2021/01/Purity-and-Life-Reality-Logo-1.png",
+     "title": "Purity and Life Reality Logo (1)",
+     "width": 564,
+     "height": 545
+    },
+    "overlay_color": "#504992",
+    "overlay_opacity": "0.8px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "1140"
+   }
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": {
+    "color": "#ffffff",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": {
+    "color": "#e3e4e8",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": {
+    "color": "#ffffff",
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Edward Link (geb. Kundy)",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "A dedicated and highly committed, enthusiastic MBA graduate specializing in International Business. I have graduated training in Master’s in Business Administration (MBA), Master’s in Hospitality &Tourism and BA in Sociology. I am an excellent team player who has a mature and flexible approach to work, with strong IT, interpersonal skills and the ability to communicate and negotiate concisely at all levels. I enjoy being part of a team and thrive in new and challenging working environments. Highly organized, self-motivated individual with the ability to develop, creative and solutions to problems with good analytical skills.",
+   "html": "<p>A dedicated and highly committed, enthusiastic MBA graduate specializing in International Business. I have graduated training in Master’s in Business Administration (MBA), Master’s in Hospitality &amp;Tourism and BA in Sociology. I am an excellent team player who has a mature and flexible approach to work, with strong IT, interpersonal skills and the ability to communicate and negotiate concisely at all levels. I enjoy being part of a team and thrive in new and challenging working environments. Highly organized, self-motivated individual with the ability to develop, creative and solutions to problems with good analytical skills.</p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/20210127_232830.jpg",
+   "title": "20210127_232830",
+   "width": 1077,
+   "height": 1080,
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/channel/UC_mr34ezAxVrpS5IlI-B68A",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Purity and Life Reality",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This is a programme by Agnes Link, where she shares things she believe it is the general knowledge that can benefit many as far as purity and  life reality is concerned. The program runs atleast onece a week we have a video uploaded in Youtube, Instagram and on Face Book.",
+   "html": "<p>This is a programme by Agnes Link, where she shares things she believe it is the general knowledge that can benefit many as far as purity and  life reality is concerned. The program runs atleast onece a week we have a video uploaded in Youtube, Instagram and on Face Book. </p>",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "FOLLOW AND SUBSCRIBE NOW",
+   "href": "#",
+   "align": "left",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UC_mr34ezAxVrpS5IlI-B68A"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/www.agneslink.international/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://www.instagram.com/p/CBRh8kCpShf/?igshid=v9rduxugd0ny"
+    }
+   ],
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Screenshot_20210114-135324_Instagram.jpg",
+   "title": "Screenshot_20210114-135324_Instagram",
+   "width": 622,
+   "height": 1071,
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "tHINGS I DO",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO2_small.png",
+   "title": "LOGO2_small",
+   "width": 170,
+   "height": 169,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "AgnesLink",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "YouTube Channel",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/agnes.kundy.5"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agneslinkofficial?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO.png",
+   "title": "LOGO",
+   "width": 623,
+   "height": 564,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect Tanzania",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "NGO that supports people in need to support Themselves",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UCBj1ncZUeE0evzpqvWG-xzg"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/pages/category/Youth-Organization/Agri-Connect-Tanzania-103463751030825/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agriconnecttanzania?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Purity-and-Life-Reality-Logo-1.png",
+   "title": "Purity and Life Reality Logo (1)",
+   "width": 564,
+   "height": 545,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Purity and Life Reality",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "For sharing things that can benefit as far as Purity and life reality is concerned",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UC_mr34ezAxVrpS5IlI-B68A"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/www.agneslink.international/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://www.instagram.com/p/CBRh8kCpShf/?igshid=v9rduxugd0ny"
+    }
+   ],
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/AGNESDSSSSSSSSS.jpg",
+   "title": "AGNESDSSSSSSSSS",
+   "width": 4000,
+   "height": 6000,
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon",
+   "icon": "fas fa-globe-asia",
+   "href": null,
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agnes Link - The world need us to love - The world need us to have togetherness - The world need us to help one another PAMOJA KWA UMOJA TOGETHER IN HARMONY SUZAMMEN IN EINHEIT",
+   "align": "center",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "icon",
+   "icon": "fas fa-handshake",
+   "href": null,
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

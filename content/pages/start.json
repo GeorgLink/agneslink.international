@@ -1,0 +1,131 @@
+{
+ "slug": "start",
+ "title": "Start",
+ "url": "/",
+ "front_page": true,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect TANZANIA",
+   "align": "center",
+   "href": "/agri-connect-tanzania/",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UCBj1ncZUeE0evzpqvWG-xzg"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/pages/category/Youth-Organization/Agri-Connect-Tanzania-103463751030825/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agriconnecttanzania?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO1.png",
+   "title": "LOGO1",
+   "width": 312,
+   "height": 282,
+   "href": "/agri-connect-tanzania/",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Agri-Connect TANZANIA is a registered non Government Organization (NGO), determined in supporting youth to support themselves.",
+   "html": "<p>Agri-Connect TANZANIA is a registered non Government Organization (NGO), determined in supporting youth to support themselves.</p>",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "AgnesLink Channel",
+   "align": "center",
+   "href": "/agneslink-channel/",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/agnes.kundy.5"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agneslinkofficial?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO2.png",
+   "title": "LOGO2",
+   "width": 312,
+   "height": 282,
+   "href": "/agneslink-channel/",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Get some information about my Singing Project here.",
+   "html": "Get some information about my Singing Project here.",
+   "align": "center",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Support us",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

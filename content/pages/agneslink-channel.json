@@ -1,0 +1,210 @@
+{
+ "slug": "agneslink-channel",
+ "title": "AgnesLink-Channel",
+ "url": "/agneslink-channel/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": {
+    "overlay_color": "#54595f"
+   },
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": {
+    "color": "#ebb0e7",
+    "overlay_color": "#ebb0e7",
+    "overlay_opacity": "0.03px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 800
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO2.png",
+   "title": "LOGO2",
+   "width": 312,
+   "height": 282,
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "\"Now godliness with contentment is great gain\" (1Timothy 6:6)",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link",
+   "align": "right",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "Pure Gospel | Pure word of God | Pure reality of life",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Support me",
+   "href": "#support_me",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "support_me",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "AgnesLink Channel (YouTube)",
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "AgnesLink Channel was established August 2018 by Agnes who was just doing it for fun. I didnt know it will come to be a potential channel that airs my songs to millions of people all over the world. The channel started to be active and advertised through sharing its link to different social network platforms in FEBRUARY 2019. This was done after the songs from my first album called Baba nakushukuru were uploaded as official audio lyrics. Considering the channel is new, the Singer is new and the songs are also new, the channel has been doing great with a big positive responce.  I thank God.\n\nI take this chance to thank you all who have kept supporting my singing project, through subscribing this channel and buying my CD. More than twousand CDs of my first album \"BABA NAKUSHUKURU\"(Father I thank You) have been already distributed in different Cities  in Germany, America, Canada, Mexico, Tanzania, Kenya, UK, and Nigeria. \n\nThere is a reason for you to keep supporting this channel. The channel and the whole project of singing supports youth project in Tanzania which is currently operating officially through Agri-Connect TANZANIA.",
+   "html": "<p>AgnesLink Channel was established August 2018 by Agnes who was just doing it for fun. I didnt know it will come to be a potential channel that airs my songs to millions of people all over the world. The channel started to be active and advertised through sharing its link to different social network platforms in FEBRUARY 2019. This was done after the songs from my first album called Baba nakushukuru were uploaded as official audio lyrics. Considering the channel is new, the Singer is new and the songs are also new, the channel has been doing great with a big positive responce.  I thank God.</p><p>I take this chance to thank you all who have kept supporting my singing project, through subscribing this channel and buying my CD. More than twousand CDs of my first album \"BABA NAKUSHUKURU\"(Father I thank You) have been already distributed in different Cities  in Germany, America, Canada, Mexico, Tanzania, Kenya, UK, and Nigeria. </p><p>There is a reason for you to keep supporting this channel. The channel and the whole project of singing supports youth project in Tanzania which is currently operating officially through Agri-Connect TANZANIA.</p>",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more hear about Agri-Connect TANZANIA...",
+   "href": "/agri-connect-tanzania/",
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO2.png",
+   "title": "LOGO2",
+   "width": 312,
+   "height": 282,
+   "align": "left",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#23A455",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "How can you support me?",
+   "align": "left",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Please Listen, like, comment, share & SUBSCRIBE",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=Mv5hf2aI5uA&list=PLa8RHWJMQh4elqRpfvs9vBo87f_K5Ydu",
+   "id": "Mv5hf2aI5uA",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "1. By Listening to my musics 2. by buying my CD 3. by sharing, liking and Commenting 3. By SUBSCRIBING \"Agneslink channel\" You automatically support our project that aims for community development by supporting People in need to support themselves.",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "testimonial",
+   "markdown": "",
+   "name": "agnes link",
+   "role": "Social Entrepreneuer Gospel Musics Writter & Singer",
+   "image": {
+    "src": "assets/2019/09/IMG-20190614-WA0008.jpg",
+    "title": "IMG-20190614-WA0008",
+    "width": 1080,
+    "height": 1080
+   },
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read More here about the background of my singing...",
+   "href": "/story-behind-my-singing/",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Support me",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

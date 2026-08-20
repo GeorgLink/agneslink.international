@@ -1,0 +1,83 @@
+{
+ "slug": "mission",
+ "title": "Mission",
+ "url": "/mission/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Mission",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "To support young people to be creative and able to employ themselves and become independent\n\n**“Support young people to support themselves” by:**",
+   "html": "<p class=\"yiv4104298740gmail-m_-7888590318405185455ydp8e266cbeMsoNormal\">To support young people to be creative and able to employ themselves and become independent</p><p class=\"yiv4104298740gmail-m_-7888590318405185455ydp8e266cbeMsoNormal\"><strong>“Support young people to support themselves” by:</strong></p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "Changing mindset",
+     "href": null
+    },
+    {
+     "text": "Capacity building",
+     "href": null
+    },
+    {
+     "text": "Financial support",
+     "href": null
+    }
+   ],
+   "icon_color": "#00a33e",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more about A-CT Objectives",
+   "href": "/objectives/",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/Screenshot_20200325-231808_Instagram.jpg",
+   "title": "Screenshot_20200325-231808_Instagram",
+   "width": 1066,
+   "height": 823,
+   "align": "left",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

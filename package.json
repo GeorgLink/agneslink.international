@@ -1,0 +1,13 @@
+{
+  "name": "agneslink-static",
+  "private": true,
+  "description": "Static rebuild of agneslink.international — HTML + CSS only, all assets self-hosted",
+  "scripts": {
+    "css": "tailwindcss -i src/site.css -o docs/assets/css/site.css --minify",
+    "build": "bash tools/build.sh"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "@tailwindcss/typography": "^0.5.19"
+  }
+}

@@ -1,0 +1,469 @@
+{
+ "slug": "agri-connect-tanzania",
+ "title": "Agri-Connect Tanzania",
+ "url": "/agri-connect-tanzania/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": {
+    "overlay_color": "#54595f"
+   },
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": {
+    "color": "#704a0b",
+    "overlay_color": "#ebb0e7",
+    "overlay_opacity": "0.03px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 800
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 5,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 6,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "\"Support people in need to support themselves\"",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect Tanzania",
+   "align": "right",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more",
+   "href": "#community",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "community",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The idea its time has come...",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=mX4bQaQYy5I&list=PLBxN_ClgX35uxlq-5mIwXF9ewLxTeaXc0",
+   "id": "mX4bQaQYy5I",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "NEW AND CREATIVE WAYS & TECHNIQUES FOR SELF EMPLOYMENTS TO YOUNG PEOPLE",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "*FIRST STAGE*: KIJANA **KUJIWEZESHA**\\\n***SECOND STAGE*: VIJANA KUWEZESHANA &**\\\n***THIRD STAGE:* VIJANA KUWEZESHWA**\n\n-Mindset changing-\n\n-Capacity building-\n\n-Material Provision-",
+   "html": "<p style=\"padding-left: 40px; text-align: left;\"><em>FIRST STAGE</em>: KIJANA<strong> KUJIWEZESHA</strong><br /><strong><em>SECOND STAGE</em>: VIJANA KUWEZESHANA &amp;</strong><br /><strong><em>THIRD STAGE:</em> VIJANA KUWEZESHWA</strong></p><p>-Mindset changing-</p><p>-Capacity building-</p><p>-Material Provision-</p>",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Community Development is possible...",
+   "align": "center",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "\"If we can all \"STAND TOGETHER\" in supporting one another, to have all of us and all people in all communities, societies, countries & continents, to be: thinking positive; creative in employing our/their environment safely, positively & productively; independent, knowing what to do and do them accordingly & efficiently: definately \"COMMUNITY DEVELOPMENT\" can and will be achieved where it is not yet achieved: THUS, the world becomes a better place for everybody to live\" (Agnes Link)",
+   "html": "<p>\"If we can all \"STAND TOGETHER\" in supporting one another, to have all of us and all people in all communities, societies, countries &amp; continents, to be: thinking positive; creative in employing our/their environment safely, positively &amp; productively; independent, knowing what to do and do them accordingly &amp; efficiently: definately \"COMMUNITY DEVELOPMENT\" can and will be achieved where it is not yet achieved: THUS, the world becomes a better place for everybody to live\" (Agnes Link)</p>",
+   "align": "justify",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=I01J6NcNhPA&list=PLBxN_ClgX35tK6ZxYJ_dYoCDvWRDAKCxO",
+   "id": "I01J6NcNhPA",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Support youth to support themselves",
+   "align": "center",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/11/IMG-20191023-WA0047.jpg",
+   "title": "IMG-20191023-WA0047",
+   "width": 832,
+   "height": 1080,
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Why Agri-Connect TANZANIA",
+   "align": "center",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Lots of Social, political, economical and cultural problems exist in our communities. Focusing on the root causes of these problems, we can bring solutions. . Young people are mostly affected by unemployment, lack of motivation, lack of know how and lack of focus. The Young generation is also the strength and hope of the nations. It is unfortunate that millions of young people have lost their life perspecive and are becoming more and more dependant. \n\nAddictions, alcoholism, drug abuse, hanging arround in the streats has become a reality of their daily life . Some of them hope for a better future in other countries which results in family separation, the need to adjust to new cultures and languages. \n\nA lot of time and efforts is wasted, which could have been invested in creating a better future in their home lands. \n\nAs a solution we have established non governmental organization (NGO) called Agri-connect Tanzania. Our Goal is to support people to support themselves; by creating a sustainable environment, we give people possibility to stay productively and live a fulfilled life at home.",
+   "html": "<div>Lots of Social, political, economical and cultural problems exist in our communities. Focusing on the root causes of these problems, we can bring solutions. . Young people are mostly affected by unemployment, lack of motivation, lack of know how and lack of focus. The Young generation is also the strength and hope of the nations. It is unfortunate that millions of young people have lost their life perspecive and are becoming more and more dependant. </div><p>Addictions, alcoholism, drug abuse, hanging arround in the streats has become a reality of their daily life . Some of them hope for a better future in other countries which results in family separation, the need to adjust to new cultures and languages. </p><p>A lot of time and efforts is wasted, which could have been invested in creating a better future in their home lands. </p><p>As a solution we have established non governmental organization (NGO) called Agri-connect Tanzania. Our Goal is to support people to support themselves; by creating a sustainable environment, we give people possibility to stay productively and live a fulfilled life at home.</p>",
+   "align": "left",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more about Agri-Connect TANZANIA",
+   "href": "#agri-connect",
+   "align": "center",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "anchor",
+   "id": "agri-connect",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect Tanzania has a Special Song TO Unite Youth and all other groups in the Community",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The Song's lyrics is translated in three languages; Kiswahili, English & German",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "|PAMOJA KWA UMOJA | TOGETHER IN UNITY | ZUSAMMEN IN EINHEIT|",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=zg7azS3Y_A0",
+   "id": "zg7azS3Y_A0",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "The song is written and sang by Agnes Link, and it was produced  purposely to Unite Youth and other groups in the community. The song was released officially on YouTube Agri-Connect Tanzania and On AgnesLink channel on 25.10.2019, as an Audio. \n\nThe video shooting was done in Kilimanjaro Region in Tanzania on 30&31.10.2019, and was officially released on Youtube on 18th March 2020. Youths from two groups volunteered to be part of the video. \n\nEverywhere and every time Youth under Agri Connect Tanzania meet, they sing this song \"PAMOJA KWA UMOJA\" together. The song carries the vision of the idea of supporting youth. The idea that started easily as just an idea but today it is an NGO with lots of impacts to many people already.",
+   "html": "<p>The song is written and sang by Agnes Link, and it was produced  purposely to Unite Youth and other groups in the community. The song was released officially on YouTube Agri-Connect Tanzania and On AgnesLink channel on 25.10.2019, as an Audio. </p><p>The video shooting was done in Kilimanjaro Region in Tanzania on 30&amp;31.10.2019, and was officially released on Youtube on 18th March 2020. Youths from two groups volunteered to be part of the video. </p><p>Everywhere and every time Youth under Agri Connect Tanzania meet, they sing this song \"PAMOJA KWA UMOJA\" together. The song carries the vision of the idea of supporting youth. The idea that started easily as just an idea but today it is an NGO with lots of impacts to many people already.</p>",
+   "align": "left",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Support me to reach those who are not yet reached",
+   "align": "left",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/11/Agnes_Kundy_Community.jpg",
+   "alt": "Agnes Kundy Community Agri-Connect Tanzania",
+   "title": "Agnes Kundy Community Agri-Connect Tanzania",
+   "width": 650,
+   "height": 415,
+   "align": "left",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Another reason why you can invest in supporting me......\n\n\"Reach those who are not yet reached\" is the main project Model A-CT is using in supporting people in need to support themselves. Agri-Connect Tanzania targets to reach people who havent been reached yet until we see their lives change FROM one stage to another. Some people are not yet reached because of many reasons, their Location, their life status could be one of them.  \n\nAgri-Connect Tanzania believes:",
+   "html": "<p>Another reason why you can invest in supporting me......</p><p>\"Reach those who are not yet reached\" is the main project Model A-CT is using in supporting people in need to support themselves. Agri-Connect Tanzania targets to reach people who havent been reached yet until we see their lives change FROM one stage to another. Some people are not yet reached because of many reasons, their Location, their life status could be one of them.  </p><p>Agri-Connect Tanzania believes: </p>",
+   "align": "left",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "There are many talented youth in the villages and are not yet reached.",
+     "href": null
+    },
+    {
+     "text": "There are youth who are ambitious to live good life, to work hard but they have no means, they have no knowledge, they are not capable on creativity in employing themselves arround their environment. Agri-Connect Tanzania aims to reach them.",
+     "href": null
+    },
+    {
+     "text": "There young people who are already in worldly addictions like alcoholism, hopelessly hanging arroung in the streets, no body wants to even come near them because they are dirty smelling bad etc. Agri-Connect Tanzania is determined to reach and support them to the point they can support themselves. It is already happening and it is not easy because we need resources in terms of money in making all these possible. We need to travel there and accordingly taking the groups into the process of being supported to support themselves. Your support is highly needed and highly appreciated",
+     "href": null
+    }
+   ],
+   "icon_color": "#00a33e",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Why you should be part of supporting this mission",
+   "align": "left",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "**We are all potential, we all have something to give, we can all learn from each other, we can support each other.** \n\nWe all have something to give and it is always worthy to give in supporting others.\n\nIn order to achieve this vision aiming for community development it is important all of us to invest on young generation. As Agri-Connect Tanzania we invest as much as we can more on research and trainings.\n\n\"Nobody has so much enough to give; equally as nobody has completely nothing to give. We all have something to give\" (Agnes Link)\n\nThe challenges of young people is more psychological, behavioral, mental and then physical. It needs an intelligent strategy to bring them back to the positive thinking, appreciating life. And those who are already in life addictions need transformation process that will help them back to their normalities. \n\nWe can stand together and support this. We need each other. It needs, seminars and workshops. it needs rehabilitation service for those who need transformation process.\n\nThe challenge of our young generation is a challenge of our community and  we can all be part of its solution. Be a support to this mission.\n\nPlease you are welcome to support me in this big vision that aims to support the community.",
+   "html": "<p><strong>We are all potential, we all have something to give, we can all learn from each other, we can support each other. </strong></p><p>We all have something to give and it is always worthy to give in supporting others.</p><p>In order to achieve this vision aiming for community development it is important all of us to invest on young generation. As Agri-Connect Tanzania we invest as much as we can more on research and trainings.</p><p>\"Nobody has so much enough to give; equally as nobody has completely nothing to give. We all have something to give\" (Agnes Link)</p><p>The challenges of young people is more psychological, behavioral, mental and then physical. It needs an intelligent strategy to bring them back to the positive thinking, appreciating life. And those who are already in life addictions need transformation process that will help them back to their normalities. </p><p>We can stand together and support this. We need each other. It needs, seminars and workshops. it needs rehabilitation service for those who need transformation process.</p><p>The challenge of our young generation is a challenge of our community and  we can all be part of its solution. Be a support to this mission.</p><p>Please you are welcome to support me in this big vision that aims to support the community. </p>",
+   "align": "left",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "How we support",
+   "align": "left",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "After young people are taken into process of creativity and be clear on employing themselves arround their environment, those who have identified what they like to do, what they can do and start doing it; Agri Connect Tanzania through its Micro credit programme, provides micro-credits which is requested and it is given in cash.  This has started already and the feedback in returning the money to keep the rotation of going to other young people is so far positive. Example on 2nd November 2019 micro credit was provided to 10 small projects in Tanzania to be returned in 6 months. And now some of them has returned and are asking for more loans that they want to expand their production. This is what is needed, to see young people working and being responsible and independent. In the period of January and March 2020 three more groups were given micro credit in different ammount as it was requested. . \n\nThe idea is so far working positive and it is predicted to keep working. Knowing it is a big challenge to do micro credit with poor community, Agri Connect Tanzania is determined to work directly with young people in making sure they work the credits accordingly and they produce and make surplus that they not only pay the loans but also their lives are improved.",
+   "html": "<p>After young people are taken into process of creativity and be clear on employing themselves arround their environment, those who have identified what they like to do, what they can do and start doing it; Agri Connect Tanzania through its Micro credit programme, provides micro-credits which is requested and it is given in cash.  This has started already and the feedback in returning the money to keep the rotation of going to other young people is so far positive. Example on 2nd November 2019 micro credit was provided to 10 small projects in Tanzania to be returned in 6 months. And now some of them has returned and are asking for more loans that they want to expand their production. This is what is needed, to see young people working and being responsible and independent. In the period of January and March 2020 three more groups were given micro credit in different ammount as it was requested. . </p><p>The idea is so far working positive and it is predicted to keep working. Knowing it is a big challenge to do micro credit with poor community, Agri Connect Tanzania is determined to work directly with young people in making sure they work the credits accordingly and they produce and make surplus that they not only pay the loans but also their lives are improved. </p><p> </p>",
+   "align": "left",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=5b4kCtG8-uQ",
+   "id": "5b4kCtG8-uQ",
+   "section": 5,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Trainings, seminars, workshops & meetings",
+   "align": "left",
+   "section": 6,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "We invest in mindset changing to build up Capacity among Youth in groups. By doing seminars, trainings, workshops and youth meetings. We also support and guide youth to share and learn themselves in groups following the directory Mannual prepared by Agri-Connect Tanzania. all focusing on practical education and experience. Among the sources where the practical experience comes, experience from young people themselves is also highly considered.",
+   "html": "<p>We invest in mindset changing to build up Capacity among Youth in groups. By doing seminars, trainings, workshops and youth meetings. We also support and guide youth to share and learn themselves in groups following the directory Mannual prepared by Agri-Connect Tanzania. all focusing on practical education and experience. Among the sources where the practical experience comes, experience from young people themselves is also highly considered.  </p>",
+   "align": "left",
+   "section": 6,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/11/20191117_214308-scaled.jpg",
+   "title": "20191117_214308",
+   "width": 2560,
+   "height": 2340,
+   "section": 6,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/agri-connect-tanzania3.jpg",
+   "title": "agri-connect-tanzania3",
+   "width": 1400,
+   "height": 1051,
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Resources support",
+   "align": "left",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "After capacity biulding, young people became creative and know what they can do and start working on opportunities arround them. This is the stage Agri connect Tanzania supports through resorces provision in terms of money. It is done through Micro-credits according to the project rules and regulations. So far the analysis shows it is working good and many lives are impacted towards improvements.",
+   "html": "<p>After capacity biulding, young people became creative and know what they can do and start working on opportunities arround them. This is the stage Agri connect Tanzania supports through resorces provision in terms of money. It is done through Micro-credits according to the project rules and regulations. So far the analysis shows it is working good and many lives are impacted towards improvements.&nbsp;</p>",
+   "align": "left",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "How can you support?",
+   "align": "left",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#704a0b",
+   "section": 6,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

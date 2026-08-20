@@ -1,0 +1,339 @@
+{
+ "slug": "future-plans",
+ "title": "Future plans",
+ "url": "/future-plans/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": {
+    "image": {
+     "src": "assets/2020/03/20200329_162232.jpg",
+     "title": "20200329_162232",
+     "width": 1080,
+     "height": 595
+    },
+    "overlay_opacity": "0.25px"
+   },
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": {
+    "color": "#003e53"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 3,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 5,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 6,
+   "structure": null,
+   "background": {
+    "color": "#d2e9e1"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 753
+   }
+  },
+  {
+   "index": 7,
+   "structure": "20",
+   "background": {
+    "color": "#003e53"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect Tanzania",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect TANZANIA - NEXT STEPS",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agri-Connect Tanzania",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "SUBSCRIBE NOW",
+   "href": null,
+   "align": "right",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "ESTABLISHING THAT CENTRE",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "One of  A-CT next step is to have Youth transformation Center. The centre will have hostels and buildings which supports small projects where young people who will be taken through transformation process can also be helped to be busy in learning how to carry their new life independently and through working hard. Could be restaurant, saloon, stationery, farming, etc.\n\nTransformation process will target youth with addictions, alcoholism, drugs and those who have lived unhealth life and lead them to physical unhelth and mentaly giving up. The centre will be located in the headquator of Agri- Connect Tanzania in Kilimanjaro as a starting point, but later we are planning to have more  centres in other Regions.",
+   "html": "<p>One of  A-CT next step is to have Youth transformation Center. The centre will have hostels and buildings which supports small projects where young people who will be taken through transformation process can also be helped to be busy in learning how to carry their new life independently and through working hard. Could be restaurant, saloon, stationery, farming, etc.</p><p>Transformation process will target youth with addictions, alcoholism, drugs and those who have lived unhealth life and lead them to physical unhelth and mentaly giving up. <span style=\"font-size: 14px;\">The centre will be located in the headquator of Agri- Connect Tanzania in Kilimanjaro as a starting point, but later we are planning to have more  centres in other Regions.</span></p>",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "EXPERTS",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "This next step requires building Experts with different knowledge to train and teach. In this case the door is open for volunteers from diffferent parts of the world to support this. Exposure through different experts from different areas plays a big role in mindset changing which is one of our targets.",
+   "html": "<p>This next step requires building Experts with different knowledge to train and teach. In this case the door is open for volunteers from diffferent parts of the world to support this. Exposure through different experts from different areas plays a big role in mindset changing which is one of our targets. </p>",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/IMG-20191221-WA0044.jpg",
+   "title": "IMG-20191221-WA0044",
+   "width": 810,
+   "height": 1080,
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "An example of a young person who is already in alcoholism addiction and need the process of transformation.",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20200329_145016.jpg",
+   "title": "20200329_145016",
+   "width": 1070,
+   "height": 1014,
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Source: http://ontheworldmap.com/tanzania/tanzania-regions-map.jpg (29.3.2020)",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agri-Connect Tanzania Coverage",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Agri-connect Tanzania aims to reach youth all over the Country and  therefore aims to upscale the groups within Tanzania, to the regions step by step. Until now the groups are in Kilimanjaro, Arusha, Bagamoyo and Shinyanga. The regions the idea is already introduced but not yet established to young groups is Mwanza, Morogoro and Dar es Slaam.",
+   "html": "<p>Agri-connect Tanzania aims to reach youth all over the Country and&nbsp; therefore aims to upscale the groups within Tanzania, to the regions step by step. Until now the groups are in Kilimanjaro, Arusha, Bagamoyo and Shinyanga. The regions the idea is already introduced but not yet established to young groups is Mwanza, Morogoro and Dar es Slaam.&nbsp;</p>\n<p></p>",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agri-Connect Tanzania Team",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "As Agri-Connect Tanzania aims to reach all young people interested, it wont be easy with just one team. A-CT aims to have more team members who will start as Volunteers. The teams will be in sub regions. Example until Now we have A-CT Northern Team, and we are working hard to equip more teams in other regions to help the big demand we are having  from young people. The team in North region is equiped as a main team who also sometimes travel to support the project in other regions. The members in the team are so far 8, and among the members Gender balance is taken into account and we have 4 men and 4 women in the team..",
+   "html": "<p>As Agri-Connect Tanzania aims to reach all young people interested, it wont be easy with just one team. A-CT aims to have more team members who will start as Volunteers. The teams will be in sub regions. Example until Now we have A-CT Northern Team, and we are working hard to equip more teams in other regions to help the big demand we are having  from young people. The team in North region is equiped as a main team who also sometimes travel to support the project in other regions. The members in the team are so far 8, and among the members Gender balance is taken into account and we have 4 men and 4 women in the team.. </p>",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Thank You for the big support",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "In accomplishing all these we are open to any one who may kindly be willing to support this project with ideas, expertism, money and any other material supported related to Youth environment including machines rrlated to Agriculture practices.\n\nDirectors, board of Directors and A-CT Team, is thanking you all for your support-. Without You we wouldnt have reached the big step we are now. Your support counts big for our community development. Thank you again for standing with us.",
+   "html": "<p>In accomplishing all these we are open to any one who may kindly be willing to support this project with ideas, expertism, money and any other material supported related to Youth environment including machines rrlated to Agriculture practices.</p><p>Directors, board of Directors and A-CT Team, is thanking you all for your support-. Without You we wouldnt have reached the big step we are now. Your support counts big for our community development. Thank you again for standing with us. </p><p> </p>",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/P1110719.jpg",
+   "title": "P1110719",
+   "width": 1920,
+   "height": 1080,
+   "section": 5,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect Tanzania - Northern team. the 3 missing are ladies. we care about gender equality.",
+   "section": 5,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Our Journey from 1 Group to 8 youth Groups",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=OTuMpbjmzak",
+   "id": "OTuMpbjmzak",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "testimonial",
+   "markdown": "\"It hasnt been easy, it is not easy as it never be easy, but it is possible and always possible. Anything great with great impacts must be not just easy. More power comes from having more knowledge, and more practical knowledge, comes from life experience and it is always through things we always find are not just easy\" (Agnes Link) Together we can. \"PAMOJA KW UMOJA\"",
+   "name": "agnes link",
+   "role": "NGO Founder",
+   "image": {
+    "src": "assets/2020/03/Screenshot_20200329-152351_YouTube.jpg",
+    "title": "Screenshot_20200329-152351_YouTube",
+    "width": 594,
+    "height": 629
+   },
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Agri-Connect Tanzania",
+   "href": "https://www.youtube.com/channel/UCBj1ncZUeE0evzpqvWG-xzg?view_as=subscriber",
+   "section": 7,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "SUBSCRIBE NOW",
+   "href": null,
+   "align": "right",
+   "section": 7,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

@@ -1,0 +1,892 @@
+{
+ "slug": "about-agnes",
+ "title": "About Agnes",
+ "url": "/about-agnes/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": {
+    "overlay_color": "#54595f"
+   },
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": null,
+   "background": {
+    "color": "#704a0b",
+    "overlay_color": "#ebb0e7",
+    "overlay_opacity": "0.03px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 800
+   }
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 4,
+   "structure": null,
+   "background": {
+    "color": "#704A0B"
+   },
+   "content_width": null
+  },
+  {
+   "index": 5,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 6,
+   "structure": null,
+   "background": {
+    "color": "#704A0B"
+   },
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "\"Support people in need to support themselves\"",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link",
+   "align": "right",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more",
+   "href": "#community",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "community",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Community development is possible...",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "carousel",
+   "images": [
+    {
+     "src": "assets/2019/09/nice-one-2.jpg",
+     "title": "nice one 2",
+     "width": 721,
+     "height": 1094
+    },
+    {
+     "src": "assets/2020/04/AGNES-WEB1111111-scaled.jpg",
+     "title": "AGNES WEB1111111",
+     "width": 1707,
+     "height": 2560
+    }
+   ],
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "If we can all \"STAND TOGETHER\" in supporting one another, to have all of us and all people in all communities, societies, countries & continents to be:\n\nthinking positive; \\\ncreative in employing our/their environment safely, \\\npositively & productively; \\\nindependent, knowing what to do and do them accordingly & efficiently: definately \"COMMUNITY DEVELOPMENT\" can and will be achieved where it is not yet achieved:\n\nTHUS, the world becomes a better place for everybody to live. \n\nBelieving so, I seek to use my professional expertise and my own life experience as a village girl who have also been opportuned to travel to the different parts of the world;\n\nto enhance Community development  by focusing in supporting people in need to support themselves.",
+   "html": "<p>If we can all \"STAND TOGETHER\" in supporting one another, to have all of us and all people in all communities, societies, countries &amp; continents to be:</p><p>thinking positive; <br />creative in employing our/their environment safely, <br />positively &amp; productively; <br />independent, knowing what to do and do them accordingly &amp; efficiently: definately \"COMMUNITY DEVELOPMENT\" can and will be achieved where it is not yet achieved:</p><p>THUS, the world becomes a better place for everybody to live. </p><p>Believing so, I seek to use my professional expertise and my own life experience as a village girl who have also been opportuned to travel to the different parts of the world;</p><p>to enhance Community development  by focusing in supporting people in need to support themselves. </p>",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Support us",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "My vision",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "My vision is to see more than 75% of young people in Tanzania are able to think positive, they have self love and they are able to use their life potentials; they are creative in employing their environment safely, positively and productively; they are independent, knowing what to do and do them accordingly and efficiently.",
+   "html": "<p>My vision is to see more than 75% of young people in Tanzania are able to think positive, they have self love and they are able to use their life potentials; they are creative in employing their environment safely, positively and productively; they are independent, knowing what to do and do them accordingly and efficiently.</p>",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "To facilitate this vision, together with Agri-Connect Tanzania team; we enhance economic growth; by establishing Knowledge, Innovation, Creativity and Competence Centers (KICCC); that will stand as Youth Community Based Organization (YCBOs) under Agri-Connect TANZANIA.\n\nMy life experience tells me, the powerful man is the man full of knowledge and wisdom to apply such knowledge. In this sense \"KNOWLEDGE IS POWER\". Therefore we support young people by equiping them with practical knowldge that aims to bring them into self realization of their life potentials; and that they have all it takes to bring their lives into success. We do this by taking them through the process of mindset changing, capacity building and resources provision.",
+   "html": "<p>To facilitate this vision, together with Agri-Connect Tanzania team; we enhance economic growth; by establishing Knowledge, Innovation, Creativity and Competence Centers (KICCC); that will stand as Youth Community Based Organization (YCBOs) under Agri-Connect TANZANIA.</p><p>My life experience tells me, the powerful man is the man full of knowledge and wisdom to apply such knowledge. In this sense \"KNOWLEDGE IS POWER\". Therefore we support young people by equiping them with practical knowldge that aims to bring them into self realization of their life potentials; and that they have all it takes to bring their lives into success. We do this by taking them through the process of mindset changing, capacity building and resources provision. </p>",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more about Agri-Connect TANZANIA",
+   "href": "#agri-connect",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "agri-connect",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Why Agri-Connect TANZANIA",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "video",
+   "provider": "youtube",
+   "url": "https://www.youtube.com/watch?v=o2K0U1ZKncY",
+   "id": "o2K0U1ZKncY",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "NEW AND CREATIVE WAYS & TECHNIQUES FOR CREATING SELF EMPLOYMENTS TO YOUNG PEOPLE",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**VIJANA KUJIWEZESHA,**\\\n**VIJANA KUWEZESHANA &**\\\n**VIJANA KUWEZESHWA..........**",
+   "html": "<p><strong>VIJANA KUJIWEZESHA,</strong><br /><strong>VIJANA KUWEZESHANA &amp;</strong><br /><strong>VIJANA KUWEZESHWA..........</strong></p>",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Lots of Social, political, economical and cultural problems exist in our communities. Focusing on the root causes of these problems, we can bring solutions. . Young people are mostly affected by unemployment, lack of motivation, lack of know how and lack of focus. The Young generation is also the strength and hope of the nations. It is unfortunate that millions of young people have lost their life perspecive and are becoming more and more dependant. \n\nAddictions, alcoholism, drug abuse, hanging arround in the streats has become a reality of their daily life . Some of them hope for a better future in other countries which results in family separation, the need to adjust to new cultures and languages. \n\nA lot of time and efforts is wasted, which could have been invested in creating a better future in their home lands. \n\nAs a solution we have established non governmental organization (NGO) called Agri-connect Tanzania. Our Goal is to support people to support themselves; by creating a sustainable environment, we give people possibility to stay productively and live a fulfilled life at home.",
+   "html": "<div>Lots of Social, political, economical and cultural problems exist in our communities. Focusing on the root causes of these problems, we can bring solutions. . Young people are mostly affected by unemployment, lack of motivation, lack of know how and lack of focus. The Young generation is also the strength and hope of the nations. It is unfortunate that millions of young people have lost their life perspecive and are becoming more and more dependant. </div><p>Addictions, alcoholism, drug abuse, hanging arround in the streats has become a reality of their daily life . Some of them hope for a better future in other countries which results in family separation, the need to adjust to new cultures and languages. </p><p>A lot of time and efforts is wasted, which could have been invested in creating a better future in their home lands. </p><p>As a solution we have established non governmental organization (NGO) called Agri-connect Tanzania. Our Goal is to support people to support themselves; by creating a sustainable environment, we give people possibility to stay productively and live a fulfilled life at home.</p>",
+   "align": "justify",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The idea its time has come...",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more on why you should support",
+   "href": "#unreachable",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "unreachable",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Support me to reach those who are not yet reached",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/11/Agnes_Kundy_Community.jpg",
+   "alt": "Agnes Kundy Community Agri-Connect Tanzania",
+   "title": "Agnes Kundy Community Agri-Connect Tanzania",
+   "width": 650,
+   "height": 415,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Another reason why you can invest in supporting me......\n\n\"Reach those who are not yet reached\" is the main project Model  in supporting people in need to support themselves. A-CT reaches people who havent been reached yet until we see their lives change into one stage to another. Some people are not yet reached because of many reasons, their Location, life status being one of them.",
+   "html": "<p>Another reason why you can invest in supporting me......</p><p>\"Reach those who are not yet reached\" is the main project Model  in supporting people in need to support themselves. A-CT reaches people who havent been reached yet until we see their lives change into one stage to another. Some people are not yet reached because of many reasons, their Location, life status being one of them.</p>",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "There is highly talented youth in villages who are not yet reached.",
+     "href": null
+    },
+    {
+     "text": "There are youth who are ambitious to live good life, to work hard but they have no means and havent been reached",
+     "href": null
+    },
+    {
+     "text": "There young people who are already addicted hopeless hanging arroung in the streets, no body wants to even come near them because they are dirty smelling bad etc. A-CT is determined to reach and support them directly to the point they can support themselves",
+     "href": null
+    }
+   ],
+   "icon_color": "#00a33e",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Support us",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Why you should be part of supporting this mission",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**We are all potential, we all have something to give, we can all learn from each other, we can support each other.** \n\nWe all have something to give.\n\nNobody has so much eough to give; equally as nobody has completely nothing to give. We all have something to give.\n\nThe challenges of young people is more psychological, behavioral and mental. it needs an intelligent strategy to bring them back to the positive thinking, appreciating life. And those who are already in life addictions back to normal through full transformation process. We can stand together and support this. We need each other. It needs seminars and workshops. it needs rehabilitation servive for those who needs transformation process. \n\nThe challenge of our young generation is a challenge of all.  We can all be part of its solution. Be a support to this mission",
+   "html": "<p><strong>We are all potential, we all have something to give, we can all learn from each other, we can support each other.&nbsp;</strong></p>\n<p>We all have something to give.</p>\n<p>Nobody has so much eough to give; equally as nobody has completely nothing to give. We all have something to give.</p>\n<p>The challenges of young people is more psychological, behavioral and mental. it needs an intelligent strategy to bring them back to the positive thinking, appreciating life. And those who are already in life addictions back to normal through full transformation process. We can stand together and support this. We need each other. It needs seminars and workshops. it needs rehabilitation servive for those who needs transformation process.&nbsp;</p>\n<p>The challenge of our young generation is a challenge of all.&nbsp; We can all be part of its solution. Be a support to this mission<span style=\"font-size: 18px;\">&nbsp;</span></p>",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "More about Agnes",
+   "href": "#agnes",
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "agnes",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "About Agnes Edward Link (geb. Kundy)",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "A dedicated and highly committed, enthusiastic MBA graduate specializing in International Business. I have graduated training in Master’s in Business Administration (MBA), Master’s in Hospitality &Tourism and BA in Sociology. I am an excellent team player who has a mature and flexible approach to work, with strong IT, interpersonal skills and the ability to communicate and negotiate concisely at all levels. I enjoy being part of a team and thrive in new and challenging working environments. Highly organized, self-motivated individual with the ability to develop, creative and solutions to problems with good analytical skills.",
+   "html": "<p>A dedicated and highly committed, enthusiastic MBA graduate specializing in International Business. I have graduated training in Master’s in Business Administration (MBA), Master’s in Hospitality &amp;Tourism and BA in Sociology. I am an excellent team player who has a mature and flexible approach to work, with strong IT, interpersonal skills and the ability to communicate and negotiate concisely at all levels. I enjoy being part of a team and thrive in new and challenging working environments. Highly organized, self-motivated individual with the ability to develop, creative and solutions to problems with good analytical skills.</p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/20210127_232830.jpg",
+   "title": "20210127_232830",
+   "width": 1077,
+   "height": 1080,
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Purity and Life Reality",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Purity&Life Reality is a programme by Agnes Link, that shares things that carry general knowledge that can benefit many as far as purity and  life reality is concerned. The program runs atleast once a week where by a video clip is uploaded on YouTube, Instagram and Facebook. \n\nTo benefit from this program please visit us on the following platforms;",
+   "html": "<p>Purity&amp;Life Reality is a programme by Agnes Link, that shares things that carry general knowledge that can benefit many as far as purity and  life reality is concerned. The program runs atleast once a week where by a video clip is uploaded on YouTube, Instagram and Facebook. </p><p>To benefit from this program please visit us on the following platforms;</p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UC_mr34ezAxVrpS5IlI-B68A"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/www.agneslink.international/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://www.instagram.com/p/CBRh8kCpShf/?igshid=v9rduxugd0ny"
+    }
+   ],
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "My Hobbies",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**Sports, reading&writting, networking, praying, singing&listerning to the music, supporting others and each others**",
+   "html": "<p><strong> </strong></p><p><strong>Sports, reading&amp;writting, networking, praying, singing&amp;listerning to the music, supporting others and each others</strong></p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "My amaizing memorable activities",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**Climbing Mount Meru&Kilimanjaro (2015)**\n\nClimbing Mount Meru 4 days then continue 7 days to Mount Kilimanjaro and get to Uhuru Pick is one of my amazing memorable life adventure in my life time. The company and good friends we did this together will always be cherished in my attention. The friendship and love was amaizing, I thank God, I thank them. The journey tought me many things including the so called PAMOJA KWA UMOJA makes everything possible. We agreed to make it and we made it together, we are proud of what we did. Another thing is \"Polepole\" was the best strategy that made it possible.",
+   "html": "<p><strong> Climbing Mount Meru&amp;Kilimanjaro (2015)</strong></p><p>Climbing Mount Meru 4 days then continue 7 days to Mount Kilimanjaro and get to Uhuru Pick is one of my amazing memorable life adventure in my life time. The company and good friends we did this together will always be cherished in my attention. The friendship and love was amaizing, I thank God, I thank them. The journey tought me many things including the so called PAMOJA KWA UMOJA makes everything possible. We agreed to make it and we made it together, we are proud of what we did. Another thing is \"Polepole\" was the best strategy that made it possible.</p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/20200419_174525.jpg",
+   "title": "20200419_174525",
+   "width": 1600,
+   "height": 1200,
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**Singing**\n\n**Is the best thing has happened to me. For more about my singing please visit Agneslink website.**",
+   "html": "<p><strong>Singing</strong></p><p><strong>Is the best thing has happened to me. For more about my singing please visit Agneslink website.</strong></p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/IMG-20190915-WA0020.jpg",
+   "title": "IMG-20190915-WA0020",
+   "width": 931,
+   "height": 950,
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**Diving**",
+   "html": "<p><strong>Diving</strong></p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**Ski Fahren**",
+   "html": "<p><strong>Ski Fahren</strong></p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "**Full Kili - Marathon 2021**",
+   "html": "<p><strong>Full Kili - Marathon 2021</strong></p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Follow me and subscribe to my Youtube channel",
+   "html": "<p>Follow me and subscribe to my Youtube channel </p>",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UC_mr34ezAxVrpS5IlI-B68A"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/www.agneslink.international/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://www.instagram.com/p/CBRh8kCpShf/?igshid=v9rduxugd0ny"
+    }
+   ],
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "My education",
+   "align": "center",
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "carousel",
+   "images": [
+    {
+     "src": "assets/2019/10/agn-gradu-40-1.jpg",
+     "title": "agn gradu 40 (1)",
+     "width": 477,
+     "height": 720
+    },
+    {
+     "src": "assets/2019/10/the-best-of-agn-e1583933130235.jpg",
+     "caption": "UNIVERSITY OF WALES, CARDIFF, UNITED KINGDOM",
+     "title": "the best of agn",
+     "width": 1482,
+     "height": 2223
+    },
+    {
+     "src": "assets/2021/01/Screenshot_20210114-114031_WhatsApp.jpg",
+     "caption": "UNIVERSITY OF DAR ES SALAAM-TANZANIA",
+     "title": "Screenshot_20210114-114031_WhatsApp",
+     "width": 1080,
+     "height": 1766
+    },
+    {
+     "src": "assets/2021/01/Screenshot_20210114-114052_WhatsApp.jpg",
+     "caption": "KEURA PRIMARY SCHOOL",
+     "title": "Screenshot_20210114-114052_WhatsApp",
+     "width": 1066,
+     "height": 1396
+    }
+   ],
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "August 2012 University of Gloucestershire (UK) Awarded Master’s in Business Administration (MBA)",
+   "icon": "far fa-chart-bar",
+   "href": null,
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "July 2011 : University of Wales, CARDIFF (UK) Awarded Masters in International Hospitality and Tourism Management",
+   "icon": "far fa-building",
+   "href": null,
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "Feb-Dec 2009: Career Dreams (Botswana) ICM , UK Certified Single subjects diploma in; Human Resource in Hospitality; Marketing for Hospitality and Tourism; Accounting, Purchasing and cost control; Hospitality Management; and Hotel and catering law",
+   "icon": "fas fa-archive",
+   "href": null,
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "Sept 2003-Jun 2006: University of Dar es Salaam, Tanzania Awarded Bachelor of Arts degree in Sociology",
+   "icon": "fas fa-briefcase",
+   "href": null,
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "July 2000-May 2002: Korogwe girls High School, Tanga region in Tanzania A-Level secondary education; History, Kiswahili and English Language",
+   "icon": "fab fa-codepen",
+   "href": null,
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "Jan 1996-Sept 1999: Pakula Secondary School, Kilimanjaro region in Tanzania Ordinary Level Secondary Education; Maths, Biology, English Language,History, Kiswahili, Geography, Civics, Book-keeping and Commerce \\",
+   "icon": "far fa-newspaper",
+   "href": null,
+   "section": 4,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "ido",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Things I do",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO2.png",
+   "title": "LOGO2",
+   "width": 312,
+   "height": 282,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "AgnesLink",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/agnes.kundy.5"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agneslinkofficial?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "YouTube Channel - where you can find all my video songs",
+   "html": "<p>YouTube Channel - where you can find all my video songs</p>",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO.png",
+   "title": "LOGO",
+   "width": 623,
+   "height": 564,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect Tanzania",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UCBj1ncZUeE0evzpqvWG-xzg"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/pages/category/Youth-Organization/Agri-Connect-Tanzania-103463751030825/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agriconnecttanzania?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "NGO that supports people in need to support Themselves",
+   "html": "<p>NGO that supports people in need to support Themselves</p>",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Purity-and-Life-Reality-Logo-1.png",
+   "title": "Purity and Life Reality Logo (1)",
+   "width": 564,
+   "height": 545,
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Purity and Life Reality",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UC_mr34ezAxVrpS5IlI-B68A"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/www.agneslink.international/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://www.instagram.com/p/CBRh8kCpShf/?igshid=v9rduxugd0ny"
+    }
+   ],
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "For sharing things that can benefit as far as Purity and life reality is concerned",
+   "html": "<p>For sharing things that can benefit as far as Purity and life reality is concerned</p>",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "The world needs us",
+   "href": "#world",
+   "align": "center",
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "anchor",
+   "id": "world",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon",
+   "icon": "fas fa-globe-asia",
+   "href": null,
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The world",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/AGNESDSSSSSSSSS.jpg",
+   "title": "AGNESDSSSSSSSSS",
+   "width": 4000,
+   "height": 6000,
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "The world needs us to love",
+     "href": null
+    },
+    {
+     "text": "The world needs us to have togetherness",
+     "href": null
+    },
+    {
+     "text": "The world needs us to help one another",
+     "href": null
+    }
+   ],
+   "icon_color": "#F0990C",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Support us",
+   "href": "/support-us/",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "PAMOJA KWA UMOJA TOGETHER IN HARMONY ZUSAMMEN IN EINHEIT",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

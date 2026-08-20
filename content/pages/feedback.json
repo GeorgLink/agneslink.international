@@ -1,0 +1,126 @@
+{
+ "slug": "feedback",
+ "title": "Feedback",
+ "url": "/feedback/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Feedback from our sponsors",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "At Agnes Link you can feel the Enthusiasm and the authenticity - just being honest, natural and sincere.",
+   "html": "<p style=\"text-align: left;\">At Agnes Link you can feel the Enthusiasm and the authenticity - just being honest, natural and sincere.</p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "About 95% of the donations get right into the project work, I have witnessed this.",
+   "html": "<p style=\"text-align: right;\">About 95% of the donations get right into the project work, I have witnessed this. </p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Feedback from participants",
+   "href": "#part",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/20210107_000905-scaled.jpg",
+   "title": "20210107_000905",
+   "width": 2560,
+   "height": 2560,
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/20210106_164352-scaled.jpg",
+   "title": "20210106_164352",
+   "width": 2560,
+   "height": 2560,
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "anchor",
+   "id": "part",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Feedback from participants",
+   "align": "left",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "With the work from ACT I've learned to create and design my own future.",
+   "html": "<p style=\"text-align: left;\">With the work from ACT I've learned to create and design my own future.</p>",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "With the micro credit from ACT I realized my dream ... THANK YOU!",
+   "html": "<p style=\"text-align: right;\">With the micro credit from ACT I realized my dream ... THANK YOU!</p>",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

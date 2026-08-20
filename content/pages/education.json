@@ -1,0 +1,237 @@
+{
+ "slug": "education",
+ "title": "Education",
+ "url": "/education/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": {
+    "color": "#ffffff"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": {
+    "color": "#998675"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 1140
+   }
+  },
+  {
+   "index": 2,
+   "structure": null,
+   "background": {
+    "color": "#ffffff"
+   },
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Education",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "August 2012 University of Gloucestershire (UK) Awarded Master’s in Business Administration (MBA)",
+   "icon": "far fa-chart-bar",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "July 2011 : University of Wales, CARDIFF (UK) Awarded Masters in International Hospitality and Tourism Management",
+   "icon": "far fa-building",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "Feb-Dec 2009: Career Dreams (Botswana) ICM , UK Certified Single subjects diploma in; Human Resource in Hospitality; Marketing for Hospitality and Tourism; Accounting, Purchasing and cost control; Hospitality Management; and Hotel and catering law",
+   "icon": "fas fa-archive",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "Sept 2003-Jun 2006: University of Dar es Salaam, Tanzania Awarded Bachelor of Arts degree in Sociology",
+   "icon": "fas fa-briefcase",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "July 2000-May 2002: Korogwe girls High School, Tanga region in Tanzania A-Level secondary education; History, Kiswahili and English Language",
+   "icon": "fab fa-codepen",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-box",
+   "title": "",
+   "markdown": "Jan 1996-Sept 1999: Pakula Secondary School, Kilimanjaro region in Tanzania Ordinary Level Secondary Education; Maths, Biology, English Language,History, Kiswahili, Geography, Civics, Book-keeping and Commerce \\",
+   "icon": "far fa-file-alt",
+   "href": null,
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/agn-gradu-40-1.jpg",
+   "title": "agn gradu 40 (1)",
+   "width": 477,
+   "height": 720,
+   "align": "right",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "About me and my education",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read More",
+   "href": "#",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Firm Partners",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "KEURA PRIMARY SCHOOL",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Screenshot_20210114-114052_WhatsApp.jpg",
+   "caption": "KEURA PRIMARY SCHOOL",
+   "title": "Screenshot_20210114-114052_WhatsApp",
+   "width": 1066,
+   "height": 1396,
+   "align": "right",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "PAKULA SECONDARY SCHOOL",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "KOROGWE GIRLS HIGH SCHOOL",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Screenshot_20210114-114031_WhatsApp.jpg",
+   "caption": "UNIVERSITY OF DAR ES SALAAM-TANZANIA",
+   "title": "Screenshot_20210114-114031_WhatsApp",
+   "width": 1080,
+   "height": 1766,
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "university of dar es salaam-tanzania",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "mauni tourism and hospitality college",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/the-best-of-agn-e1583933130235.jpg",
+   "caption": "UNIVERSITY OF WALES, CARDIFF, UNITED KINGDOM",
+   "title": "the best of agn",
+   "width": 1482,
+   "height": 2223,
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "university of wales, cardiff, united kingdoms",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "gloucestershire university, united kingdoms",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

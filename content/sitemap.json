@@ -1,0 +1,277 @@
+{
+ "site": "Agnes Link",
+ "front_page": "start",
+ "pages": [
+  {
+   "slug": "about-agnes",
+   "title": "About Agnes",
+   "url": "/about-agnes/"
+  },
+  {
+   "slug": "about-me",
+   "title": "About Me",
+   "url": "/about-me/"
+  },
+  {
+   "slug": "about-us",
+   "title": "About us",
+   "url": "/about-us/"
+  },
+  {
+   "slug": "agneslink-channel",
+   "title": "AgnesLink-Channel",
+   "url": "/agneslink-channel/"
+  },
+  {
+   "slug": "agri-connect-tanzania",
+   "title": "Agri-Connect Tanzania",
+   "url": "/agri-connect-tanzania/"
+  },
+  {
+   "slug": "albums",
+   "title": "Albums",
+   "url": "/albums/"
+  },
+  {
+   "slug": "audio-dvd",
+   "title": "Audio & DVD",
+   "url": "/audio-dvd/"
+  },
+  {
+   "slug": "background",
+   "title": "Background of the project",
+   "url": "/background/"
+  },
+  {
+   "slug": "concerts",
+   "title": "Concerts",
+   "url": "/concerts/"
+  },
+  {
+   "slug": "contact",
+   "title": "Contact",
+   "url": "/contact/"
+  },
+  {
+   "slug": "education",
+   "title": "Education",
+   "url": "/education/"
+  },
+  {
+   "slug": "feedback",
+   "title": "Feedback",
+   "url": "/feedback/"
+  },
+  {
+   "slug": "future-plans",
+   "title": "Future plans",
+   "url": "/future-plans/"
+  },
+  {
+   "slug": "hobbies",
+   "title": "Hobbies",
+   "url": "/hobbies/"
+  },
+  {
+   "slug": "imprint",
+   "title": "Imprint",
+   "url": "/imprint/"
+  },
+  {
+   "slug": "mission",
+   "title": "Mission",
+   "url": "/mission/"
+  },
+  {
+   "slug": "objectives",
+   "title": "Objectives",
+   "url": "/objectives/"
+  },
+  {
+   "slug": "privacy-protection",
+   "title": "Privacy Protection",
+   "url": "/privacy-protection/"
+  },
+  {
+   "slug": "project-mode",
+   "title": "Project mode",
+   "url": "/project-mode/"
+  },
+  {
+   "slug": "start",
+   "title": "Start",
+   "url": "/"
+  },
+  {
+   "slug": "story-behind-my-singing",
+   "title": "Story behind my Singing",
+   "url": "/story-behind-my-singing/"
+  },
+  {
+   "slug": "support-us",
+   "title": "Support us",
+   "url": "/support-us/"
+  },
+  {
+   "slug": "vision",
+   "title": "Vision",
+   "url": "/vision/"
+  },
+  {
+   "slug": "what-and-how-we-do",
+   "title": "What and how we do",
+   "url": "/what-and-how-we-do/"
+  },
+  {
+   "slug": "youth-groups",
+   "title": "Youth groups",
+   "url": "/youth-groups/"
+  }
+ ],
+ "menus": {
+  "Footer": [
+   {
+    "label": "Contact",
+    "href": "/contact/",
+    "slug": "contact",
+    "children": []
+   },
+   {
+    "label": "Privacy Protection",
+    "href": "/privacy-protection/",
+    "slug": "privacy-protection",
+    "children": []
+   },
+   {
+    "label": "Imprint",
+    "href": "/imprint/",
+    "slug": "imprint",
+    "children": []
+   }
+  ],
+  "Hauptmenü": [
+   {
+    "label": "About Agnes",
+    "href": "/about-agnes/",
+    "slug": "about-agnes",
+    "children": []
+   },
+   {
+    "label": "Agri-Connect Tanzania",
+    "href": "/agri-connect-tanzania/",
+    "slug": "agri-connect-tanzania",
+    "children": [
+     {
+      "label": "About us",
+      "href": "/about-us/",
+      "slug": "about-us",
+      "children": []
+     },
+     {
+      "label": "Background of the project",
+      "href": "/background/",
+      "slug": "background",
+      "children": []
+     },
+     {
+      "label": "Vision",
+      "href": "/vision/",
+      "slug": "vision",
+      "children": []
+     },
+     {
+      "label": "Mission",
+      "href": "/mission/",
+      "slug": "mission",
+      "children": []
+     },
+     {
+      "label": "Objectives",
+      "href": "/objectives/",
+      "slug": "objectives",
+      "children": []
+     },
+     {
+      "label": "What and how we do",
+      "href": "/what-and-how-we-do/",
+      "slug": "what-and-how-we-do",
+      "children": []
+     },
+     {
+      "label": "Youth groups",
+      "href": "/youth-groups/",
+      "slug": "youth-groups",
+      "children": []
+     },
+     {
+      "label": "Project mode",
+      "href": "/project-mode/",
+      "slug": "project-mode",
+      "children": []
+     },
+     {
+      "label": "Feedback",
+      "href": "/feedback/",
+      "slug": "feedback",
+      "children": []
+     },
+     {
+      "label": "Next steps",
+      "href": "/future-plans/",
+      "slug": "future-plans",
+      "children": []
+     },
+     {
+      "label": "Support us",
+      "href": "/support-us/",
+      "slug": "support-us",
+      "children": []
+     }
+    ]
+   },
+   {
+    "label": "AgnesLink-Channel",
+    "href": "/agneslink-channel/",
+    "slug": "agneslink-channel",
+    "children": [
+     {
+      "label": "Story behind my Singing",
+      "href": "/story-behind-my-singing/",
+      "slug": "story-behind-my-singing",
+      "children": []
+     },
+     {
+      "label": "Albums",
+      "href": "/albums/",
+      "slug": "albums",
+      "children": []
+     },
+     {
+      "label": "Audio & DVD",
+      "href": "/audio-dvd/",
+      "slug": "audio-dvd",
+      "children": []
+     },
+     {
+      "label": "Concerts",
+      "href": "/concerts/",
+      "slug": "concerts",
+      "children": []
+     },
+     {
+      "label": "Support us",
+      "href": "/support-us/",
+      "slug": "support-us",
+      "children": []
+     }
+    ]
+   },
+   {
+    "label": "Support us",
+    "href": "/support-us/",
+    "slug": "support-us",
+    "children": []
+   }
+  ]
+ }
+}

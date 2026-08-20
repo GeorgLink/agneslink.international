@@ -1,0 +1,84 @@
+{
+ "slug": "objectives",
+ "title": "Objectives",
+ "url": "/objectives/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "assets/2019/11/20190816_104800.jpg",
+   "alt": "Agnes Kundy Mission Agri-Connect Tanzania",
+   "title": "Agnes Kundy Mission Agri-Connect Tanzania",
+   "width": 500,
+   "height": 665,
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Objectives",
+   "align": "left",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "To help youth to be aware and use the available social and economic opportunities around them.",
+     "href": null
+    },
+    {
+     "text": "To persuade and equip youth in being aware of their inner strength, courage and potentials, thus knowing the importance of engaging on development activities.",
+     "href": null
+    },
+    {
+     "text": "To support Youth and the community’s awareness and understanding on the positive, efficient, safe and productive use of resources",
+     "href": null
+    },
+    {
+     "text": "To persuade and guide youth to cooperate and share among themselves different social economic issues related to the whole agenda of helping them to improve their lives. This will result community development",
+     "href": null
+    },
+    {
+     "text": "To accomplish the idea of “Vijana kujiwezesha, kuwezeshana na kuwezeshwa” economically.",
+     "href": null
+    }
+   ],
+   "icon_color": "#00a33e",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more about what & how we do",
+   "href": "/what-and-how-we-do/",
+   "align": "left",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

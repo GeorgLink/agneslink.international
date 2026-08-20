@@ -1,0 +1,61 @@
+{
+ "slug": "vision",
+ "title": "Vision",
+ "url": "/vision/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agri-Connect TANZANIA - Vision",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Sustainable Community development through enhancing economic growth by establishing Knowledge, Innovation, Creativity Competence Centers(KICCC).\n\nThat will stand as Youth Community Based Organizations (CBOs) under Agri-Connect TANZANIA",
+   "html": "<p>Sustainable Community development through enhancing economic growth by establishing Knowledge, Innovation, Creativity Competence Centers(KICCC).</p><p>That will stand as Youth Community Based Organizations (CBOs) under Agri-Connect TANZANIA</p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more about Agri-Connect TANZANIA Mission",
+   "href": "/mission/",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/09/LOGO1.png",
+   "title": "LOGO1",
+   "width": 312,
+   "height": 282,
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "support-us",
+ "title": "Support us",
+ "url": "/support-us/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "How can I support A-CT?",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "With a monetary donation you can help universally and give Agnes Link and A-CT the possibility to use funds independent of location and time.",
+     "href": null
+    },
+    {
+     "text": "With your know-how you can make an important contribution to the numerous projects.",
+     "href": null
+    },
+    {
+     "text": "With a donation in kind (agricultural equipment, simple machines etc.) you have another possibility to support.",
+     "href": null
+    },
+    {
+     "text": "In Germany you can get a donation certificate.",
+     "href": null
+    }
+   ],
+   "icon_color": "#00a33e",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "For more information you can also call +49 160 90800222",
+   "align": "right",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/help-153094_640.png",
+   "title": "help-153094_640",
+   "width": 640,
+   "height": 537,
+   "href": "#supportnow",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "HELP in order that we can HELP young people in Africa.",
+   "align": "right",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "anchor",
+   "id": "supportnow",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Support form",
+   "align": "left",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "form",
+   "form_id": "1575",
+   "ref": "forms/1575.json",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Thank you so much for supporting this vision\\\nYour support is highly appreciated\\\nIt goes directly in changing lives of people in need to support themselves\\\nThis is how we do it practically with high level of integrity, in making difference\\\nThis is what makes Agri-Connect Tanzania unique in impacting lives\\\nKeep supporting us\\\nDont hesitate to tell everybody that we can stand together as ONE in supporting this",
+   "html": "<p>Thank you so much for supporting this vision<br>Your support is highly appreciated<br>It goes directly in changing lives of people in need to support themselves<br>This is how we do it practically with high level of integrity, in making difference<br>This is what makes Agri-Connect Tanzania unique in impacting lives<br>Keep supporting us<br>Dont hesitate to tell everybody that we can stand together as ONE in supporting this</p>",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

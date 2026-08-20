@@ -1,0 +1,2745 @@
+{
+ "images": {
+  "2019/09/CHEKERENI-picha.jpg": {
+   "native": [
+    2000,
+    1124
+   ],
+   "variants": [
+    {
+     "bytes": 25266,
+     "height": 270,
+     "path": "/assets/img/2019/09/CHEKERENI-picha-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 84334,
+     "height": 540,
+     "path": "/assets/img/2019/09/CHEKERENI-picha-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 160912,
+     "height": 899,
+     "path": "/assets/img/2019/09/CHEKERENI-picha-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/09/GOOD-ONE.jpg": {
+   "native": [
+    575,
+    482
+   ],
+   "variants": [
+    {
+     "bytes": 19444,
+     "height": 402,
+     "path": "/assets/img/2019/09/GOOD-ONE-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 29224,
+     "height": 482,
+     "path": "/assets/img/2019/09/GOOD-ONE-960.webp",
+     "width": 575
+    }
+   ]
+  },
+  "2019/09/IMG-20190614-WA0008.jpg": {
+   "native": [
+    1080,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 11666,
+     "height": 480,
+     "path": "/assets/img/2019/09/IMG-20190614-WA0008-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 31140,
+     "height": 960,
+     "path": "/assets/img/2019/09/IMG-20190614-WA0008-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 32014,
+     "height": 1080,
+     "path": "/assets/img/2019/09/IMG-20190614-WA0008-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2019/09/LOGO.png": {
+   "native": [
+    623,
+    564
+   ],
+   "variants": [
+    {
+     "bytes": 18952,
+     "height": 435,
+     "path": "/assets/img/2019/09/LOGO-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 28568,
+     "height": 564,
+     "path": "/assets/img/2019/09/LOGO-960.webp",
+     "width": 623
+    }
+   ]
+  },
+  "2019/09/LOGO1.png": {
+   "native": [
+    312,
+    282
+   ],
+   "variants": [
+    {
+     "bytes": 14078,
+     "height": 282,
+     "path": "/assets/img/2019/09/LOGO1-480.webp",
+     "width": 312
+    }
+   ]
+  },
+  "2019/09/LOGO2.png": {
+   "native": [
+    312,
+    282
+   ],
+   "variants": [
+    {
+     "bytes": 17352,
+     "height": 282,
+     "path": "/assets/img/2019/09/LOGO2-480.webp",
+     "width": 312
+    }
+   ]
+  },
+  "2019/09/LOGO2_small.png": {
+   "native": [
+    170,
+    169
+   ],
+   "variants": [
+    {
+     "bytes": 9164,
+     "height": 169,
+     "path": "/assets/img/2019/09/LOGO2_small-480.webp",
+     "width": 170
+    }
+   ]
+  },
+  "2019/09/LOGO_small.png": {
+   "native": [
+    187,
+    169
+   ],
+   "variants": [
+    {
+     "bytes": 6980,
+     "height": 169,
+     "path": "/assets/img/2019/09/LOGO_small-480.webp",
+     "width": 187
+    }
+   ]
+  },
+  "2019/09/NEW-PICTURE-3.jpg": {
+   "native": [
+    1922,
+    1230
+   ],
+   "variants": [
+    {
+     "bytes": 20008,
+     "height": 307,
+     "path": "/assets/img/2019/09/NEW-PICTURE-3-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 49346,
+     "height": 614,
+     "path": "/assets/img/2019/09/NEW-PICTURE-3-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 86276,
+     "height": 1024,
+     "path": "/assets/img/2019/09/NEW-PICTURE-3-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/09/nice-one-2.jpg": {
+   "native": [
+    721,
+    1094
+   ],
+   "variants": [
+    {
+     "bytes": 11846,
+     "height": 728,
+     "path": "/assets/img/2019/09/nice-one-2-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 55740,
+     "height": 1094,
+     "path": "/assets/img/2019/09/nice-one-2-960.webp",
+     "width": 721
+    }
+   ]
+  },
+  "2019/10/20190930_193526.jpg": {
+   "native": [
+    1412,
+    1137
+   ],
+   "variants": [
+    {
+     "bytes": 18934,
+     "height": 387,
+     "path": "/assets/img/2019/10/20190930_193526-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 51326,
+     "height": 773,
+     "path": "/assets/img/2019/10/20190930_193526-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 75018,
+     "height": 1137,
+     "path": "/assets/img/2019/10/20190930_193526-1600.webp",
+     "width": 1412
+    }
+   ]
+  },
+  "2019/10/20190930_193606.png": {
+   "native": [
+    1382,
+    1113
+   ],
+   "variants": [
+    {
+     "bytes": 19062,
+     "height": 387,
+     "path": "/assets/img/2019/10/20190930_193606-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 50370,
+     "height": 773,
+     "path": "/assets/img/2019/10/20190930_193606-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 72582,
+     "height": 1113,
+     "path": "/assets/img/2019/10/20190930_193606-1600.webp",
+     "width": 1382
+    }
+   ]
+  },
+  "2019/10/20191018_000506.jpg": {
+   "native": [
+    1063,
+    591
+   ],
+   "variants": [
+    {
+     "bytes": 14088,
+     "height": 267,
+     "path": "/assets/img/2019/10/20191018_000506-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 29540,
+     "height": 534,
+     "path": "/assets/img/2019/10/20191018_000506-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 27930,
+     "height": 591,
+     "path": "/assets/img/2019/10/20191018_000506-1600.webp",
+     "width": 1063
+    }
+   ]
+  },
+  "2019/10/25388715424_65480dbf18_k.jpg": {
+   "native": [
+    1400,
+    934
+   ],
+   "variants": [
+    {
+     "bytes": 18326,
+     "height": 320,
+     "path": "/assets/img/2019/10/25388715424_65480dbf18_k-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 47456,
+     "height": 640,
+     "path": "/assets/img/2019/10/25388715424_65480dbf18_k-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 74666,
+     "height": 934,
+     "path": "/assets/img/2019/10/25388715424_65480dbf18_k-1600.webp",
+     "width": 1400
+    }
+   ]
+  },
+  "2019/10/AGNES-LINK-INTRODUCING-HER-IDEA-TO-YOUTH-FROM-KILALA-COMMUNITY-ON-20.9.2018-2.jpg": {
+   "native": [
+    681,
+    1400
+   ],
+   "variants": [
+    {
+     "bytes": 26934,
+     "height": 987,
+     "path": "/assets/img/2019/10/AGNES-LINK-INTRODUCING-HER-IDEA-TO-YOUTH-FROM-KILALA-COMMUNITY-ON-20.9.2018-2-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 216786,
+     "height": 1400,
+     "path": "/assets/img/2019/10/AGNES-LINK-INTRODUCING-HER-IDEA-TO-YOUTH-FROM-KILALA-COMMUNITY-ON-20.9.2018-2-960.webp",
+     "width": 681
+    }
+   ]
+  },
+  "2019/10/AGNESDSSSSSSSSS.jpg": {
+   "native": [
+    4000,
+    6000
+   ],
+   "variants": [
+    {
+     "bytes": 10046,
+     "height": 720,
+     "path": "/assets/img/2019/10/AGNESDSSSSSSSSS-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 28194,
+     "height": 1440,
+     "path": "/assets/img/2019/10/AGNESDSSSSSSSSS-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 43812,
+     "height": 2400,
+     "path": "/assets/img/2019/10/AGNESDSSSSSSSSS-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/10/AUDIO-BABA-NAKUSHUKURU-e1570597664165.png": {
+   "native": [
+    1535,
+    1097
+   ],
+   "variants": [
+    {
+     "bytes": 7410,
+     "height": 343,
+     "path": "/assets/img/2019/10/AUDIO-BABA-NAKUSHUKURU-e1570597664165-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 18038,
+     "height": 686,
+     "path": "/assets/img/2019/10/AUDIO-BABA-NAKUSHUKURU-e1570597664165-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 27576,
+     "height": 1097,
+     "path": "/assets/img/2019/10/AUDIO-BABA-NAKUSHUKURU-e1570597664165-1600.webp",
+     "width": 1535
+    }
+   ]
+  },
+  "2019/10/AUDIO-BABA-NAKUSHUKURU.png": {
+   "native": [
+    1535,
+    1535
+   ],
+   "variants": [
+    {
+     "bytes": 8836,
+     "height": 480,
+     "path": "/assets/img/2019/10/AUDIO-BABA-NAKUSHUKURU-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 21118,
+     "height": 960,
+     "path": "/assets/img/2019/10/AUDIO-BABA-NAKUSHUKURU-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 31810,
+     "height": 1535,
+     "path": "/assets/img/2019/10/AUDIO-BABA-NAKUSHUKURU-1600.webp",
+     "width": 1535
+    }
+   ]
+  },
+  "2019/10/Agnes-Link-with-Karamsingi-Youth-Group-after-their-meeting-on-22.9.2018.jpg": {
+   "native": [
+    4032,
+    1960
+   ],
+   "variants": [
+    {
+     "bytes": 24764,
+     "height": 233,
+     "path": "/assets/img/2019/10/Agnes-Link-with-Karamsingi-Youth-Group-after-their-meeting-on-22.9.2018-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 95142,
+     "height": 467,
+     "path": "/assets/img/2019/10/Agnes-Link-with-Karamsingi-Youth-Group-after-their-meeting-on-22.9.2018-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 222142,
+     "height": 778,
+     "path": "/assets/img/2019/10/Agnes-Link-with-Karamsingi-Youth-Group-after-their-meeting-on-22.9.2018-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/10/Agness-AUDIO-Cover-Baba-Nakushukuru-SAMPLE-2.png": {
+   "native": [
+    2924,
+    2480
+   ],
+   "variants": [
+    {
+     "bytes": 14450,
+     "height": 407,
+     "path": "/assets/img/2019/10/Agness-AUDIO-Cover-Baba-Nakushukuru-SAMPLE-2-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 50756,
+     "height": 814,
+     "path": "/assets/img/2019/10/Agness-AUDIO-Cover-Baba-Nakushukuru-SAMPLE-2-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 93268,
+     "height": 1357,
+     "path": "/assets/img/2019/10/Agness-AUDIO-Cover-Baba-Nakushukuru-SAMPLE-2-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/10/IMG-20190915-WA0018.jpg": {
+   "native": [
+    1141,
+    1016
+   ],
+   "variants": [
+    {
+     "bytes": 18998,
+     "height": 427,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0018-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 43244,
+     "height": 855,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0018-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 44392,
+     "height": 1016,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0018-1600.webp",
+     "width": 1141
+    }
+   ]
+  },
+  "2019/10/IMG-20190915-WA0020.jpg": {
+   "native": [
+    931,
+    950
+   ],
+   "variants": [
+    {
+     "bytes": 35830,
+     "height": 490,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0020-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 79750,
+     "height": 950,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0020-960.webp",
+     "width": 931
+    },
+    {
+     "bytes": 68618,
+     "height": 950,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0020-1600.webp",
+     "width": 931
+    }
+   ]
+  },
+  "2019/10/IMG-20190915-WA0023-1.jpg": {
+   "native": [
+    776,
+    994
+   ],
+   "variants": [
+    {
+     "bytes": 20806,
+     "height": 615,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0023-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 53488,
+     "height": 994,
+     "path": "/assets/img/2019/10/IMG-20190915-WA0023-1-960.webp",
+     "width": 776
+    }
+   ]
+  },
+  "2019/10/IMG-20191003-WA0004.jpg": {
+   "native": [
+    768,
+    1024
+   ],
+   "variants": [
+    {
+     "bytes": 39260,
+     "height": 640,
+     "path": "/assets/img/2019/10/IMG-20191003-WA0004-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 126912,
+     "height": 1024,
+     "path": "/assets/img/2019/10/IMG-20191003-WA0004-960.webp",
+     "width": 768
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052151_Instagram.jpg": {
+   "native": [
+    1080,
+    1235
+   ],
+   "variants": [
+    {
+     "bytes": 23634,
+     "height": 549,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052151_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 63544,
+     "height": 1098,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052151_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 77732,
+     "height": 1235,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052151_Instagram-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052228_Instagram.jpg": {
+   "native": [
+    1071,
+    1076
+   ],
+   "variants": [
+    {
+     "bytes": 26630,
+     "height": 482,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052228_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 68486,
+     "height": 964,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052228_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 71666,
+     "height": 1076,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052228_Instagram-1600.webp",
+     "width": 1071
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052303_Instagram.jpg": {
+   "native": [
+    1006,
+    1237
+   ],
+   "variants": [
+    {
+     "bytes": 13602,
+     "height": 590,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052303_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 43332,
+     "height": 1180,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052303_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 56674,
+     "height": 1237,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052303_Instagram-1600.webp",
+     "width": 1006
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052328_Instagram.jpg": {
+   "native": [
+    1058,
+    1229
+   ],
+   "variants": [
+    {
+     "bytes": 30764,
+     "height": 558,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052328_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 84812,
+     "height": 1115,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052328_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 110612,
+     "height": 1229,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052328_Instagram-1600.webp",
+     "width": 1058
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052355_Instagram.jpg": {
+   "native": [
+    1070,
+    860
+   ],
+   "variants": [
+    {
+     "bytes": 28422,
+     "height": 386,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052355_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 82374,
+     "height": 772,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052355_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 95374,
+     "height": 860,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052355_Instagram-1600.webp",
+     "width": 1070
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052457_Instagram.jpg": {
+   "native": [
+    1080,
+    1243
+   ],
+   "variants": [
+    {
+     "bytes": 28090,
+     "height": 552,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052457_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 73436,
+     "height": 1105,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052457_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 90764,
+     "height": 1243,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052457_Instagram-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052534_Instagram.jpg": {
+   "native": [
+    1075,
+    935
+   ],
+   "variants": [
+    {
+     "bytes": 30436,
+     "height": 417,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052534_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 98448,
+     "height": 835,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052534_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 101862,
+     "height": 935,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052534_Instagram-1600.webp",
+     "width": 1075
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-052638_Instagram.jpg": {
+   "native": [
+    1071,
+    730
+   ],
+   "variants": [
+    {
+     "bytes": 30144,
+     "height": 327,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052638_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 75008,
+     "height": 654,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052638_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 78038,
+     "height": 730,
+     "path": "/assets/img/2019/10/Screenshot_20191009-052638_Instagram-1600.webp",
+     "width": 1071
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191009-065245_Instagram.jpg": {
+   "native": [
+    1073,
+    1148
+   ],
+   "variants": [
+    {
+     "bytes": 26266,
+     "height": 514,
+     "path": "/assets/img/2019/10/Screenshot_20191009-065245_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 70472,
+     "height": 1027,
+     "path": "/assets/img/2019/10/Screenshot_20191009-065245_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 77082,
+     "height": 1148,
+     "path": "/assets/img/2019/10/Screenshot_20191009-065245_Instagram-1600.webp",
+     "width": 1073
+    }
+   ]
+  },
+  "2019/10/Screenshot_20191018-003850_Instagram.jpg": {
+   "native": [
+    1066,
+    1112
+   ],
+   "variants": [
+    {
+     "bytes": 15830,
+     "height": 501,
+     "path": "/assets/img/2019/10/Screenshot_20191018-003850_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 34602,
+     "height": 1001,
+     "path": "/assets/img/2019/10/Screenshot_20191018-003850_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 35174,
+     "height": 1112,
+     "path": "/assets/img/2019/10/Screenshot_20191018-003850_Instagram-1600.webp",
+     "width": 1066
+    }
+   ]
+  },
+  "2019/10/Uomboni-youths-3.jpg": {
+   "native": [
+    4032,
+    1960
+   ],
+   "variants": [
+    {
+     "bytes": 9856,
+     "height": 233,
+     "path": "/assets/img/2019/10/Uomboni-youths-3-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 27192,
+     "height": 467,
+     "path": "/assets/img/2019/10/Uomboni-youths-3-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 48256,
+     "height": 778,
+     "path": "/assets/img/2019/10/Uomboni-youths-3-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/10/agn-gradu-40-1.jpg": {
+   "native": [
+    477,
+    720
+   ],
+   "variants": [
+    {
+     "bytes": 47336,
+     "height": 720,
+     "path": "/assets/img/2019/10/agn-gradu-40-1-480.webp",
+     "width": 477
+    }
+   ]
+  },
+  "2019/10/agri-connect-tanzania1.jpg": {
+   "native": [
+    1400,
+    680
+   ],
+   "variants": [
+    {
+     "bytes": 13786,
+     "height": 233,
+     "path": "/assets/img/2019/10/agri-connect-tanzania1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 44304,
+     "height": 466,
+     "path": "/assets/img/2019/10/agri-connect-tanzania1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 76304,
+     "height": 680,
+     "path": "/assets/img/2019/10/agri-connect-tanzania1-1600.webp",
+     "width": 1400
+    }
+   ]
+  },
+  "2019/10/agri-connect-tanzania3.jpg": {
+   "native": [
+    1400,
+    1051
+   ],
+   "variants": [
+    {
+     "bytes": 20976,
+     "height": 360,
+     "path": "/assets/img/2019/10/agri-connect-tanzania3-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 57988,
+     "height": 721,
+     "path": "/assets/img/2019/10/agri-connect-tanzania3-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 95114,
+     "height": 1051,
+     "path": "/assets/img/2019/10/agri-connect-tanzania3-1600.webp",
+     "width": 1400
+    }
+   ]
+  },
+  "2019/10/agri-connect-tanzania4.jpg": {
+   "native": [
+    1400,
+    681
+   ],
+   "variants": [
+    {
+     "bytes": 30188,
+     "height": 233,
+     "path": "/assets/img/2019/10/agri-connect-tanzania4-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 127102,
+     "height": 467,
+     "path": "/assets/img/2019/10/agri-connect-tanzania4-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 230604,
+     "height": 681,
+     "path": "/assets/img/2019/10/agri-connect-tanzania4-1600.webp",
+     "width": 1400
+    }
+   ]
+  },
+  "2019/10/agri-connect-tanzania7.jpg": {
+   "native": [
+    1400,
+    1051
+   ],
+   "variants": [
+    {
+     "bytes": 32006,
+     "height": 360,
+     "path": "/assets/img/2019/10/agri-connect-tanzania7-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 112856,
+     "height": 721,
+     "path": "/assets/img/2019/10/agri-connect-tanzania7-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 206690,
+     "height": 1051,
+     "path": "/assets/img/2019/10/agri-connect-tanzania7-1600.webp",
+     "width": 1400
+    }
+   ]
+  },
+  "2019/10/foodiesfeed.com_meanwhile-in-the-kitchen-1.jpg": {
+   "native": [
+    1500,
+    686
+   ],
+   "variants": [
+    {
+     "bytes": 14584,
+     "height": 220,
+     "path": "/assets/img/2019/10/foodiesfeed.com_meanwhile-in-the-kitchen-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 42284,
+     "height": 439,
+     "path": "/assets/img/2019/10/foodiesfeed.com_meanwhile-in-the-kitchen-1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 71174,
+     "height": 686,
+     "path": "/assets/img/2019/10/foodiesfeed.com_meanwhile-in-the-kitchen-1-1600.webp",
+     "width": 1500
+    }
+   ]
+  },
+  "2019/10/placeholder-1.png": {
+   "native": [
+    1200,
+    800
+   ],
+   "variants": [
+    {
+     "bytes": 1128,
+     "height": 320,
+     "path": "/assets/img/2019/10/placeholder-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 2958,
+     "height": 640,
+     "path": "/assets/img/2019/10/placeholder-1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 3746,
+     "height": 800,
+     "path": "/assets/img/2019/10/placeholder-1-1600.webp",
+     "width": 1200
+    }
+   ]
+  },
+  "2019/10/study-footer.jpg": {
+   "native": [
+    1600,
+    932
+   ],
+   "variants": [
+    {
+     "bytes": 4082,
+     "height": 280,
+     "path": "/assets/img/2019/10/study-footer-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 16114,
+     "height": 559,
+     "path": "/assets/img/2019/10/study-footer-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 46850,
+     "height": 932,
+     "path": "/assets/img/2019/10/study-footer-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/10/the-best-of-agn-e1583933130235.jpg": {
+   "native": [
+    1482,
+    2223
+   ],
+   "variants": [
+    {
+     "bytes": 14802,
+     "height": 720,
+     "path": "/assets/img/2019/10/the-best-of-agn-e1583933130235-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 80884,
+     "height": 1440,
+     "path": "/assets/img/2019/10/the-best-of-agn-e1583933130235-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 525402,
+     "height": 2223,
+     "path": "/assets/img/2019/10/the-best-of-agn-e1583933130235-1600.webp",
+     "width": 1482
+    }
+   ]
+  },
+  "2019/11/20190816_104800.jpg": {
+   "native": [
+    500,
+    665
+   ],
+   "variants": [
+    {
+     "bytes": 40128,
+     "height": 638,
+     "path": "/assets/img/2019/11/20190816_104800-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 72712,
+     "height": 665,
+     "path": "/assets/img/2019/11/20190816_104800-960.webp",
+     "width": 500
+    }
+   ]
+  },
+  "2019/11/20191117_214308-scaled.jpg": {
+   "native": [
+    2560,
+    2340
+   ],
+   "variants": [
+    {
+     "bytes": 35476,
+     "height": 439,
+     "path": "/assets/img/2019/11/20191117_214308-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 108438,
+     "height": 878,
+     "path": "/assets/img/2019/11/20191117_214308-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 191578,
+     "height": 1462,
+     "path": "/assets/img/2019/11/20191117_214308-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/11/Agnes_Kundy_Community.jpg": {
+   "native": [
+    650,
+    415
+   ],
+   "variants": [
+    {
+     "bytes": 19254,
+     "height": 306,
+     "path": "/assets/img/2019/11/Agnes_Kundy_Community-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 33244,
+     "height": 415,
+     "path": "/assets/img/2019/11/Agnes_Kundy_Community-960.webp",
+     "width": 650
+    }
+   ]
+  },
+  "2019/11/IMG-20191023-WA0047.jpg": {
+   "native": [
+    832,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 15178,
+     "height": 623,
+     "path": "/assets/img/2019/11/IMG-20191023-WA0047-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 44964,
+     "height": 1080,
+     "path": "/assets/img/2019/11/IMG-20191023-WA0047-960.webp",
+     "width": 832
+    },
+    {
+     "bytes": 38682,
+     "height": 1080,
+     "path": "/assets/img/2019/11/IMG-20191023-WA0047-1600.webp",
+     "width": 832
+    }
+   ]
+  },
+  "2019/11/Screenshot_20191120-142850_YouTube.jpg": {
+   "native": [
+    1077,
+    611
+   ],
+   "variants": [
+    {
+     "bytes": 18912,
+     "height": 272,
+     "path": "/assets/img/2019/11/Screenshot_20191120-142850_YouTube-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 45806,
+     "height": 545,
+     "path": "/assets/img/2019/11/Screenshot_20191120-142850_YouTube-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 47188,
+     "height": 611,
+     "path": "/assets/img/2019/11/Screenshot_20191120-142850_YouTube-1600.webp",
+     "width": 1077
+    }
+   ]
+  },
+  "2019/12/20190930_193606.png": {
+   "native": [
+    1382,
+    1113
+   ],
+   "variants": [
+    {
+     "bytes": 19062,
+     "height": 387,
+     "path": "/assets/img/2019/12/20190930_193606-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 50370,
+     "height": 773,
+     "path": "/assets/img/2019/12/20190930_193606-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 72582,
+     "height": 1113,
+     "path": "/assets/img/2019/12/20190930_193606-1600.webp",
+     "width": 1382
+    }
+   ]
+  },
+  "2019/12/447803936_160559.jpg": {
+   "native": [
+    1080,
+    720
+   ],
+   "variants": [
+    {
+     "bytes": 13922,
+     "height": 320,
+     "path": "/assets/img/2019/12/447803936_160559-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 33292,
+     "height": 640,
+     "path": "/assets/img/2019/12/447803936_160559-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 33248,
+     "height": 720,
+     "path": "/assets/img/2019/12/447803936_160559-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2019/12/IMG-20191103-WA0102.jpg": {
+   "native": [
+    1000,
+    800
+   ],
+   "variants": [
+    {
+     "bytes": 15022,
+     "height": 384,
+     "path": "/assets/img/2019/12/IMG-20191103-WA0102-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 42992,
+     "height": 768,
+     "path": "/assets/img/2019/12/IMG-20191103-WA0102-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 39856,
+     "height": 800,
+     "path": "/assets/img/2019/12/IMG-20191103-WA0102-1600.webp",
+     "width": 1000
+    }
+   ]
+  },
+  "2019/12/IMG-20191119-WA0019.jpg": {
+   "native": [
+    810,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 8012,
+     "height": 640,
+     "path": "/assets/img/2019/12/IMG-20191119-WA0019-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 23764,
+     "height": 1080,
+     "path": "/assets/img/2019/12/IMG-20191119-WA0019-960.webp",
+     "width": 810
+    },
+    {
+     "bytes": 20038,
+     "height": 1080,
+     "path": "/assets/img/2019/12/IMG-20191119-WA0019-1600.webp",
+     "width": 810
+    }
+   ]
+  },
+  "2019/12/IMG-20191120-WA0008.jpg": {
+   "native": [
+    1008,
+    825
+   ],
+   "variants": [
+    {
+     "bytes": 11050,
+     "height": 393,
+     "path": "/assets/img/2019/12/IMG-20191120-WA0008-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 31438,
+     "height": 786,
+     "path": "/assets/img/2019/12/IMG-20191120-WA0008-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 30664,
+     "height": 825,
+     "path": "/assets/img/2019/12/IMG-20191120-WA0008-1600.webp",
+     "width": 1008
+    }
+   ]
+  },
+  "2019/12/IMG-20191126-WA0011-2.jpg": {
+   "native": [
+    928,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 25866,
+     "height": 559,
+     "path": "/assets/img/2019/12/IMG-20191126-WA0011-2-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 101172,
+     "height": 1080,
+     "path": "/assets/img/2019/12/IMG-20191126-WA0011-2-960.webp",
+     "width": 928
+    },
+    {
+     "bytes": 86960,
+     "height": 1080,
+     "path": "/assets/img/2019/12/IMG-20191126-WA0011-2-1600.webp",
+     "width": 928
+    }
+   ]
+  },
+  "2019/12/nzuri-story-behind-scaled.jpg": {
+   "native": [
+    1707,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 23254,
+     "height": 720,
+     "path": "/assets/img/2019/12/nzuri-story-behind-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 79538,
+     "height": 1440,
+     "path": "/assets/img/2019/12/nzuri-story-behind-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 174834,
+     "height": 2400,
+     "path": "/assets/img/2019/12/nzuri-story-behind-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2019/12/tARUMBETA-PICHA-2424-1-scaled.jpg": {
+   "native": [
+    1700,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 8754,
+     "height": 723,
+     "path": "/assets/img/2019/12/tARUMBETA-PICHA-2424-1-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 24890,
+     "height": 1446,
+     "path": "/assets/img/2019/12/tARUMBETA-PICHA-2424-1-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 41898,
+     "height": 2409,
+     "path": "/assets/img/2019/12/tARUMBETA-PICHA-2424-1-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/20191019_204448-scaled.jpg": {
+   "native": [
+    2560,
+    1580
+   ],
+   "variants": [
+    {
+     "bytes": 30552,
+     "height": 296,
+     "path": "/assets/img/2020/03/20191019_204448-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 90454,
+     "height": 592,
+     "path": "/assets/img/2020/03/20191019_204448-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 163626,
+     "height": 988,
+     "path": "/assets/img/2020/03/20191019_204448-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/20191025_232745-scaled.jpg": {
+   "native": [
+    2560,
+    1996
+   ],
+   "variants": [
+    {
+     "bytes": 29474,
+     "height": 374,
+     "path": "/assets/img/2020/03/20191025_232745-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 78864,
+     "height": 748,
+     "path": "/assets/img/2020/03/20191025_232745-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 135644,
+     "height": 1248,
+     "path": "/assets/img/2020/03/20191025_232745-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/20191025_233834-scaled.jpg": {
+   "native": [
+    2560,
+    1526
+   ],
+   "variants": [
+    {
+     "bytes": 43184,
+     "height": 286,
+     "path": "/assets/img/2020/03/20191025_233834-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 150422,
+     "height": 572,
+     "path": "/assets/img/2020/03/20191025_233834-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 293902,
+     "height": 954,
+     "path": "/assets/img/2020/03/20191025_233834-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/20191105_210542-scaled.jpg": {
+   "native": [
+    2560,
+    2329
+   ],
+   "variants": [
+    {
+     "bytes": 31048,
+     "height": 437,
+     "path": "/assets/img/2020/03/20191105_210542-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 89532,
+     "height": 873,
+     "path": "/assets/img/2020/03/20191105_210542-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 158094,
+     "height": 1456,
+     "path": "/assets/img/2020/03/20191105_210542-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/20200325_145641.jpg": {
+   "native": [
+    1080,
+    1352
+   ],
+   "variants": [
+    {
+     "bytes": 16484,
+     "height": 601,
+     "path": "/assets/img/2020/03/20200325_145641-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 43522,
+     "height": 1202,
+     "path": "/assets/img/2020/03/20200325_145641-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 57998,
+     "height": 1352,
+     "path": "/assets/img/2020/03/20200325_145641-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2020/03/20200329_145016.jpg": {
+   "native": [
+    1070,
+    1014
+   ],
+   "variants": [
+    {
+     "bytes": 24146,
+     "height": 455,
+     "path": "/assets/img/2020/03/20200329_145016-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 49554,
+     "height": 910,
+     "path": "/assets/img/2020/03/20200329_145016-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 54784,
+     "height": 1014,
+     "path": "/assets/img/2020/03/20200329_145016-1600.webp",
+     "width": 1070
+    }
+   ]
+  },
+  "2020/03/20200329_162232.jpg": {
+   "native": [
+    1080,
+    595
+   ],
+   "variants": [
+    {
+     "bytes": 13728,
+     "height": 264,
+     "path": "/assets/img/2020/03/20200329_162232-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 32932,
+     "height": 529,
+     "path": "/assets/img/2020/03/20200329_162232-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 31834,
+     "height": 595,
+     "path": "/assets/img/2020/03/20200329_162232-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2020/03/IMG-20191221-WA0044.jpg": {
+   "native": [
+    810,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 26316,
+     "height": 640,
+     "path": "/assets/img/2020/03/IMG-20191221-WA0044-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 90140,
+     "height": 1080,
+     "path": "/assets/img/2020/03/IMG-20191221-WA0044-960.webp",
+     "width": 810
+    },
+    {
+     "bytes": 75310,
+     "height": 1080,
+     "path": "/assets/img/2020/03/IMG-20191221-WA0044-1600.webp",
+     "width": 810
+    }
+   ]
+  },
+  "2020/03/IMG-20200325-WA0026.jpg": {
+   "native": [
+    696,
+    1280
+   ],
+   "variants": [
+    {
+     "bytes": 16484,
+     "height": 883,
+     "path": "/assets/img/2020/03/IMG-20200325-WA0026-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 74750,
+     "height": 1280,
+     "path": "/assets/img/2020/03/IMG-20200325-WA0026-960.webp",
+     "width": 696
+    }
+   ]
+  },
+  "2020/03/P1110719.jpg": {
+   "native": [
+    1920,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 30844,
+     "height": 270,
+     "path": "/assets/img/2020/03/P1110719-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 108748,
+     "height": 540,
+     "path": "/assets/img/2020/03/P1110719-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 203180,
+     "height": 900,
+     "path": "/assets/img/2020/03/P1110719-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/Screenshot_20200325-231808_Instagram.jpg": {
+   "native": [
+    1066,
+    823
+   ],
+   "variants": [
+    {
+     "bytes": 46562,
+     "height": 371,
+     "path": "/assets/img/2020/03/Screenshot_20200325-231808_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 138496,
+     "height": 741,
+     "path": "/assets/img/2020/03/Screenshot_20200325-231808_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 146378,
+     "height": 823,
+     "path": "/assets/img/2020/03/Screenshot_20200325-231808_Instagram-1600.webp",
+     "width": 1066
+    }
+   ]
+  },
+  "2020/03/Screenshot_20200325-234306_Gallery.jpg": {
+   "native": [
+    1080,
+    1642
+   ],
+   "variants": [
+    {
+     "bytes": 19590,
+     "height": 730,
+     "path": "/assets/img/2020/03/Screenshot_20200325-234306_Gallery-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 58256,
+     "height": 1460,
+     "path": "/assets/img/2020/03/Screenshot_20200325-234306_Gallery-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 125936,
+     "height": 1642,
+     "path": "/assets/img/2020/03/Screenshot_20200325-234306_Gallery-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2020/03/Screenshot_20200329-152351_YouTube.jpg": {
+   "native": [
+    594,
+    629
+   ],
+   "variants": [
+    {
+     "bytes": 20470,
+     "height": 508,
+     "path": "/assets/img/2020/03/Screenshot_20200329-152351_YouTube-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 28866,
+     "height": 629,
+     "path": "/assets/img/2020/03/Screenshot_20200329-152351_YouTube-960.webp",
+     "width": 594
+    }
+   ]
+  },
+  "2020/03/TWENDE-SHAMBANI-BEHIND-THE-SCENE_Moment-2222-scaled.jpg": {
+   "native": [
+    2560,
+    1439
+   ],
+   "variants": [
+    {
+     "bytes": 34564,
+     "height": 270,
+     "path": "/assets/img/2020/03/TWENDE-SHAMBANI-BEHIND-THE-SCENE_Moment-2222-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 101506,
+     "height": 540,
+     "path": "/assets/img/2020/03/TWENDE-SHAMBANI-BEHIND-THE-SCENE_Moment-2222-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 176404,
+     "height": 899,
+     "path": "/assets/img/2020/03/TWENDE-SHAMBANI-BEHIND-THE-SCENE_Moment-2222-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/03/for-website.jpg": {
+   "native": [
+    1920,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 29824,
+     "height": 270,
+     "path": "/assets/img/2020/03/for-website-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 108540,
+     "height": 540,
+     "path": "/assets/img/2020/03/for-website-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 218586,
+     "height": 900,
+     "path": "/assets/img/2020/03/for-website-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/00042_workshop.jpg": {
+   "native": [
+    1920,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 26806,
+     "height": 270,
+     "path": "/assets/img/2020/04/00042_workshop-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 86542,
+     "height": 540,
+     "path": "/assets/img/2020/04/00042_workshop-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 146336,
+     "height": 900,
+     "path": "/assets/img/2020/04/00042_workshop-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/20200405_184700-scaled.jpg": {
+   "native": [
+    2560,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 42184,
+     "height": 480,
+     "path": "/assets/img/2020/04/20200405_184700-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 104004,
+     "height": 960,
+     "path": "/assets/img/2020/04/20200405_184700-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 158088,
+     "height": 1600,
+     "path": "/assets/img/2020/04/20200405_184700-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/20200417_102619.jpg": {
+   "native": [
+    266,
+    259
+   ],
+   "variants": [
+    {
+     "bytes": 10200,
+     "height": 259,
+     "path": "/assets/img/2020/04/20200417_102619-480.webp",
+     "width": 266
+    }
+   ]
+  },
+  "2020/04/20200419_174525.jpg": {
+   "native": [
+    1600,
+    1200
+   ],
+   "variants": [
+    {
+     "bytes": 31746,
+     "height": 360,
+     "path": "/assets/img/2020/04/20200419_174525-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 91872,
+     "height": 720,
+     "path": "/assets/img/2020/04/20200419_174525-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 165620,
+     "height": 1200,
+     "path": "/assets/img/2020/04/20200419_174525-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/AGNES-WEB1111111-scaled.jpg": {
+   "native": [
+    1707,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 14716,
+     "height": 720,
+     "path": "/assets/img/2020/04/AGNES-WEB1111111-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 44338,
+     "height": 1440,
+     "path": "/assets/img/2020/04/AGNES-WEB1111111-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 92140,
+     "height": 2400,
+     "path": "/assets/img/2020/04/AGNES-WEB1111111-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/AUDIO-BABA-NAKUSHUKURU.png": {
+   "native": [
+    1534,
+    1534
+   ],
+   "variants": [
+    {
+     "bytes": 8866,
+     "height": 480,
+     "path": "/assets/img/2020/04/AUDIO-BABA-NAKUSHUKURU-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 21066,
+     "height": 960,
+     "path": "/assets/img/2020/04/AUDIO-BABA-NAKUSHUKURU-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 31866,
+     "height": 1534,
+     "path": "/assets/img/2020/04/AUDIO-BABA-NAKUSHUKURU-1600.webp",
+     "width": 1534
+    }
+   ]
+  },
+  "2020/04/Agnes-Link-introducing-her-idea-that-lead-to-the-foundation-of-AKundy-Organization-to-Karamsingi-Youth-on-22.9.2018-scaled.jpg": {
+   "native": [
+    2560,
+    1244
+   ],
+   "variants": [
+    {
+     "bytes": 14474,
+     "height": 233,
+     "path": "/assets/img/2020/04/Agnes-Link-introducing-her-idea-that-lead-to-the-foundation-of-AKundy-Organization-to-Karamsingi-Youth-on-22.9.2018-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 54662,
+     "height": 466,
+     "path": "/assets/img/2020/04/Agnes-Link-introducing-her-idea-that-lead-to-the-foundation-of-AKundy-Organization-to-Karamsingi-Youth-on-22.9.2018-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 126152,
+     "height": 778,
+     "path": "/assets/img/2020/04/Agnes-Link-introducing-her-idea-that-lead-to-the-foundation-of-AKundy-Organization-to-Karamsingi-Youth-on-22.9.2018-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/IMG-20191026-WA0014.jpg": {
+   "native": [
+    1008,
+    756
+   ],
+   "variants": [
+    {
+     "bytes": 21342,
+     "height": 360,
+     "path": "/assets/img/2020/04/IMG-20191026-WA0014-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 54856,
+     "height": 720,
+     "path": "/assets/img/2020/04/IMG-20191026-WA0014-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 49470,
+     "height": 756,
+     "path": "/assets/img/2020/04/IMG-20191026-WA0014-1600.webp",
+     "width": 1008
+    }
+   ]
+  },
+  "2020/04/IMG-20200327-WA0054.jpg": {
+   "native": [
+    1024,
+    768
+   ],
+   "variants": [
+    {
+     "bytes": 42308,
+     "height": 360,
+     "path": "/assets/img/2020/04/IMG-20200327-WA0054-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 117562,
+     "height": 720,
+     "path": "/assets/img/2020/04/IMG-20200327-WA0054-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 110358,
+     "height": 768,
+     "path": "/assets/img/2020/04/IMG-20200327-WA0054-1600.webp",
+     "width": 1024
+    }
+   ]
+  },
+  "2020/04/IMG_20200211_203700_767-1.jpg": {
+   "native": [
+    1080,
+    720
+   ],
+   "variants": [
+    {
+     "bytes": 36004,
+     "height": 320,
+     "path": "/assets/img/2020/04/IMG_20200211_203700_767-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 91302,
+     "height": 640,
+     "path": "/assets/img/2020/04/IMG_20200211_203700_767-1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 93256,
+     "height": 720,
+     "path": "/assets/img/2020/04/IMG_20200211_203700_767-1-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2020/04/IMG_20200211_203700_767.jpg": {
+   "native": [
+    1080,
+    720
+   ],
+   "variants": [
+    {
+     "bytes": 36004,
+     "height": 320,
+     "path": "/assets/img/2020/04/IMG_20200211_203700_767-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 91302,
+     "height": 640,
+     "path": "/assets/img/2020/04/IMG_20200211_203700_767-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 93256,
+     "height": 720,
+     "path": "/assets/img/2020/04/IMG_20200211_203700_767-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2020/04/JAYLAN-KILONZO-WEBSITE-scaled.jpg": {
+   "native": [
+    2560,
+    1707
+   ],
+   "variants": [
+    {
+     "bytes": 9444,
+     "height": 320,
+     "path": "/assets/img/2020/04/JAYLAN-KILONZO-WEBSITE-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 23024,
+     "height": 640,
+     "path": "/assets/img/2020/04/JAYLAN-KILONZO-WEBSITE-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 39928,
+     "height": 1067,
+     "path": "/assets/img/2020/04/JAYLAN-KILONZO-WEBSITE-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/KILALA-TAREHE-20.9.2018_Moment-2.jpg": {
+   "native": [
+    345,
+    194
+   ],
+   "variants": [
+    {
+     "bytes": 16014,
+     "height": 194,
+     "path": "/assets/img/2020/04/KILALA-TAREHE-20.9.2018_Moment-2-480.webp",
+     "width": 345
+    }
+   ]
+  },
+  "2020/04/MDADA-WEBSITE-1-2-scaled.jpg": {
+   "native": [
+    2560,
+    1440
+   ],
+   "variants": [
+    {
+     "bytes": 12776,
+     "height": 270,
+     "path": "/assets/img/2020/04/MDADA-WEBSITE-1-2-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 28736,
+     "height": 540,
+     "path": "/assets/img/2020/04/MDADA-WEBSITE-1-2-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 43946,
+     "height": 900,
+     "path": "/assets/img/2020/04/MDADA-WEBSITE-1-2-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/P1110763.jpg": {
+   "native": [
+    1920,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 20024,
+     "height": 270,
+     "path": "/assets/img/2020/04/P1110763-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 65026,
+     "height": 540,
+     "path": "/assets/img/2020/04/P1110763-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 112634,
+     "height": 900,
+     "path": "/assets/img/2020/04/P1110763-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2020/04/Said-Mbegu-website.jpg": {
+   "native": [
+    395,
+    593
+   ],
+   "variants": [
+    {
+     "bytes": 17918,
+     "height": 593,
+     "path": "/assets/img/2020/04/Said-Mbegu-website-480.webp",
+     "width": 395
+    }
+   ]
+  },
+  "2020/04/Screenshot_20200406-225031_Facebook.jpg": {
+   "native": [
+    1080,
+    1088
+   ],
+   "variants": [
+    {
+     "bytes": 23220,
+     "height": 484,
+     "path": "/assets/img/2020/04/Screenshot_20200406-225031_Facebook-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 61208,
+     "height": 967,
+     "path": "/assets/img/2020/04/Screenshot_20200406-225031_Facebook-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 59088,
+     "height": 1088,
+     "path": "/assets/img/2020/04/Screenshot_20200406-225031_Facebook-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2020/04/Screenshot_20200407-094725_YouTube.jpg": {
+   "native": [
+    400,
+    408
+   ],
+   "variants": [
+    {
+     "bytes": 10710,
+     "height": 408,
+     "path": "/assets/img/2020/04/Screenshot_20200407-094725_YouTube-480.webp",
+     "width": 400
+    }
+   ]
+  },
+  "2020/04/Screenshot_20200407-095047_Instagram.jpg": {
+   "native": [
+    960,
+    1120
+   ],
+   "variants": [
+    {
+     "bytes": 10430,
+     "height": 560,
+     "path": "/assets/img/2020/04/Screenshot_20200407-095047_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 28152,
+     "height": 1120,
+     "path": "/assets/img/2020/04/Screenshot_20200407-095047_Instagram-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 23888,
+     "height": 1120,
+     "path": "/assets/img/2020/04/Screenshot_20200407-095047_Instagram-1600.webp",
+     "width": 960
+    }
+   ]
+  },
+  "2020/04/Screenshot_20200407-095441_Instagram.jpg": {
+   "native": [
+    372,
+    399
+   ],
+   "variants": [
+    {
+     "bytes": 7040,
+     "height": 399,
+     "path": "/assets/img/2020/04/Screenshot_20200407-095441_Instagram-480.webp",
+     "width": 372
+    }
+   ]
+  },
+  "2020/04/Screenshot_20200421-111510_Gallery.jpg": {
+   "native": [
+    520,
+    583
+   ],
+   "variants": [
+    {
+     "bytes": 12464,
+     "height": 538,
+     "path": "/assets/img/2020/04/Screenshot_20200421-111510_Gallery-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 22994,
+     "height": 583,
+     "path": "/assets/img/2020/04/Screenshot_20200421-111510_Gallery-960.webp",
+     "width": 520
+    }
+   ]
+  },
+  "2020/04/Screenshot_20200421-113101_Google.jpg": {
+   "native": [
+    541,
+    523
+   ],
+   "variants": [
+    {
+     "bytes": 10438,
+     "height": 464,
+     "path": "/assets/img/2020/04/Screenshot_20200421-113101_Google-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 13078,
+     "height": 523,
+     "path": "/assets/img/2020/04/Screenshot_20200421-113101_Google-960.webp",
+     "width": 541
+    }
+   ]
+  },
+  "2020/04/mama-website.jpg": {
+   "native": [
+    496,
+    702
+   ],
+   "variants": [
+    {
+     "bytes": 18932,
+     "height": 679,
+     "path": "/assets/img/2020/04/mama-website-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 34690,
+     "height": 702,
+     "path": "/assets/img/2020/04/mama-website-960.webp",
+     "width": 496
+    }
+   ]
+  },
+  "2020/04/salvation-website1.png": {
+   "native": [
+    1517,
+    1517
+   ],
+   "variants": [
+    {
+     "bytes": 23924,
+     "height": 480,
+     "path": "/assets/img/2020/04/salvation-website1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 62832,
+     "height": 960,
+     "path": "/assets/img/2020/04/salvation-website1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 98758,
+     "height": 1517,
+     "path": "/assets/img/2020/04/salvation-website1-1600.webp",
+     "width": 1517
+    }
+   ]
+  },
+  "2020/04/website-tshirt-2.jpg": {
+   "native": [
+    783,
+    1034
+   ],
+   "variants": [
+    {
+     "bytes": 11788,
+     "height": 634,
+     "path": "/assets/img/2020/04/website-tshirt-2-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 38564,
+     "height": 1034,
+     "path": "/assets/img/2020/04/website-tshirt-2-960.webp",
+     "width": 783
+    }
+   ]
+  },
+  "2020/04/website-we-do-concerts-1.jpg": {
+   "native": [
+    1280,
+    720
+   ],
+   "variants": [
+    {
+     "bytes": 17792,
+     "height": 270,
+     "path": "/assets/img/2020/04/website-we-do-concerts-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 40684,
+     "height": 540,
+     "path": "/assets/img/2020/04/website-we-do-concerts-1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 48364,
+     "height": 720,
+     "path": "/assets/img/2020/04/website-we-do-concerts-1-1600.webp",
+     "width": 1280
+    }
+   ]
+  },
+  "2021/01/20210106_164352-scaled.jpg": {
+   "native": [
+    2560,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 43808,
+     "height": 480,
+     "path": "/assets/img/2021/01/20210106_164352-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 110666,
+     "height": 960,
+     "path": "/assets/img/2021/01/20210106_164352-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 171362,
+     "height": 1600,
+     "path": "/assets/img/2021/01/20210106_164352-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2021/01/20210107_000905-scaled.jpg": {
+   "native": [
+    2560,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 25354,
+     "height": 480,
+     "path": "/assets/img/2021/01/20210107_000905-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 61502,
+     "height": 960,
+     "path": "/assets/img/2021/01/20210107_000905-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 94756,
+     "height": 1600,
+     "path": "/assets/img/2021/01/20210107_000905-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2021/01/20210113_201838-scaled.jpg": {
+   "native": [
+    2560,
+    2560
+   ],
+   "variants": [
+    {
+     "bytes": 18688,
+     "height": 480,
+     "path": "/assets/img/2021/01/20210113_201838-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 43928,
+     "height": 960,
+     "path": "/assets/img/2021/01/20210113_201838-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 70230,
+     "height": 1600,
+     "path": "/assets/img/2021/01/20210113_201838-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2021/01/20210116_104023.png": {
+   "native": [
+    796,
+    911
+   ],
+   "variants": [
+    {
+     "bytes": 37664,
+     "height": 549,
+     "path": "/assets/img/2021/01/20210116_104023-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 94468,
+     "height": 911,
+     "path": "/assets/img/2021/01/20210116_104023-960.webp",
+     "width": 796
+    }
+   ]
+  },
+  "2021/01/20210127_232830.jpg": {
+   "native": [
+    1077,
+    1080
+   ],
+   "variants": [
+    {
+     "bytes": 57304,
+     "height": 481,
+     "path": "/assets/img/2021/01/20210127_232830-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 190094,
+     "height": 963,
+     "path": "/assets/img/2021/01/20210127_232830-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 218096,
+     "height": 1080,
+     "path": "/assets/img/2021/01/20210127_232830-1600.webp",
+     "width": 1077
+    }
+   ]
+  },
+  "2021/01/Agnes-Penye-Sifa-Mockup-1-scaled.jpg": {
+   "native": [
+    2560,
+    2048
+   ],
+   "variants": [
+    {
+     "bytes": 13904,
+     "height": 384,
+     "path": "/assets/img/2021/01/Agnes-Penye-Sifa-Mockup-1-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 43536,
+     "height": 768,
+     "path": "/assets/img/2021/01/Agnes-Penye-Sifa-Mockup-1-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 87098,
+     "height": 1280,
+     "path": "/assets/img/2021/01/Agnes-Penye-Sifa-Mockup-1-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2021/01/Agnes-Salvation-Mockups-1-scaled.jpg": {
+   "native": [
+    2560,
+    2048
+   ],
+   "variants": [
+    {
+     "bytes": 11842,
+     "height": 384,
+     "path": "/assets/img/2021/01/Agnes-Salvation-Mockups-1-scaled-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 30526,
+     "height": 768,
+     "path": "/assets/img/2021/01/Agnes-Salvation-Mockups-1-scaled-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 53764,
+     "height": 1280,
+     "path": "/assets/img/2021/01/Agnes-Salvation-Mockups-1-scaled-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2021/01/Inside-1.png": {
+   "native": [
+    1630,
+    1482
+   ],
+   "variants": [
+    {
+     "bytes": 24172,
+     "height": 436,
+     "path": "/assets/img/2021/01/Inside-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 67568,
+     "height": 873,
+     "path": "/assets/img/2021/01/Inside-1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 112454,
+     "height": 1455,
+     "path": "/assets/img/2021/01/Inside-1-1600.webp",
+     "width": 1600
+    }
+   ]
+  },
+  "2021/01/Purity-and-Life-Reality-Logo-1.png": {
+   "native": [
+    564,
+    545
+   ],
+   "variants": [
+    {
+     "bytes": 25156,
+     "height": 464,
+     "path": "/assets/img/2021/01/Purity-and-Life-Reality-Logo-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 28108,
+     "height": 545,
+     "path": "/assets/img/2021/01/Purity-and-Life-Reality-Logo-1-960.webp",
+     "width": 564
+    }
+   ]
+  },
+  "2021/01/Screenshot_20210114-114031_WhatsApp.jpg": {
+   "native": [
+    1080,
+    1766
+   ],
+   "variants": [
+    {
+     "bytes": 12082,
+     "height": 785,
+     "path": "/assets/img/2021/01/Screenshot_20210114-114031_WhatsApp-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 27118,
+     "height": 1570,
+     "path": "/assets/img/2021/01/Screenshot_20210114-114031_WhatsApp-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 48762,
+     "height": 1766,
+     "path": "/assets/img/2021/01/Screenshot_20210114-114031_WhatsApp-1600.webp",
+     "width": 1080
+    }
+   ]
+  },
+  "2021/01/Screenshot_20210114-114052_WhatsApp.jpg": {
+   "native": [
+    1066,
+    1396
+   ],
+   "variants": [
+    {
+     "bytes": 23616,
+     "height": 629,
+     "path": "/assets/img/2021/01/Screenshot_20210114-114052_WhatsApp-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 75462,
+     "height": 1257,
+     "path": "/assets/img/2021/01/Screenshot_20210114-114052_WhatsApp-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 111044,
+     "height": 1396,
+     "path": "/assets/img/2021/01/Screenshot_20210114-114052_WhatsApp-1600.webp",
+     "width": 1066
+    }
+   ]
+  },
+  "2021/01/Screenshot_20210114-135324_Instagram.jpg": {
+   "native": [
+    622,
+    1071
+   ],
+   "variants": [
+    {
+     "bytes": 38412,
+     "height": 826,
+     "path": "/assets/img/2021/01/Screenshot_20210114-135324_Instagram-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 154224,
+     "height": 1071,
+     "path": "/assets/img/2021/01/Screenshot_20210114-135324_Instagram-960.webp",
+     "width": 622
+    }
+   ]
+  },
+  "2021/01/Sticker-Jan-1.jpg": {
+   "native": [
+    1382,
+    1382
+   ],
+   "variants": [
+    {
+     "bytes": 31602,
+     "height": 480,
+     "path": "/assets/img/2021/01/Sticker-Jan-1-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 99252,
+     "height": 960,
+     "path": "/assets/img/2021/01/Sticker-Jan-1-960.webp",
+     "width": 960
+    },
+    {
+     "bytes": 151174,
+     "height": 1382,
+     "path": "/assets/img/2021/01/Sticker-Jan-1-1600.webp",
+     "width": 1382
+    }
+   ]
+  },
+  "2021/01/help-153094_640.png": {
+   "native": [
+    640,
+    537
+   ],
+   "variants": [
+    {
+     "bytes": 17484,
+     "height": 403,
+     "path": "/assets/img/2021/01/help-153094_640-480.webp",
+     "width": 480
+    },
+    {
+     "bytes": 25590,
+     "height": 537,
+     "path": "/assets/img/2021/01/help-153094_640-960.webp",
+     "width": 640
+    }
+   ]
+  }
+ },
+ "posters": {
+  "2bW7g4b3wPA": {
+   "height": 405,
+   "path": "/assets/posters/2bW7g4b3wPA.webp",
+   "width": 720
+  },
+  "5b4kCtG8-uQ": {
+   "height": 405,
+   "path": "/assets/posters/5b4kCtG8-uQ.webp",
+   "width": 720
+  },
+  "I01J6NcNhPA": {
+   "height": 405,
+   "path": "/assets/posters/I01J6NcNhPA.webp",
+   "width": 720
+  },
+  "Mv5hf2aI5uA": {
+   "height": 405,
+   "path": "/assets/posters/Mv5hf2aI5uA.webp",
+   "width": 720
+  },
+  "OTuMpbjmzak": {
+   "height": 405,
+   "path": "/assets/posters/OTuMpbjmzak.webp",
+   "width": 720
+  },
+  "Y-HG0lXgznA": {
+   "height": 405,
+   "path": "/assets/posters/Y-HG0lXgznA.webp",
+   "width": 720
+  },
+  "hwktlJNbjjo": {
+   "height": 405,
+   "path": "/assets/posters/hwktlJNbjjo.webp",
+   "width": 720
+  },
+  "mX4bQaQYy5I": {
+   "height": 405,
+   "path": "/assets/posters/mX4bQaQYy5I.webp",
+   "width": 720
+  },
+  "o2K0U1ZKncY": {
+   "height": 405,
+   "path": "/assets/posters/o2K0U1ZKncY.webp",
+   "width": 720
+  },
+  "zg7azS3Y_A0": {
+   "height": 405,
+   "path": "/assets/posters/zg7azS3Y_A0.webp",
+   "width": 720
+  },
+  "zu6Swo7gMBM": {
+   "height": 360,
+   "path": "/assets/posters/zu6Swo7gMBM.webp",
+   "width": 480
+  }
+ }
+}

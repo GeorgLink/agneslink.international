@@ -1,0 +1,229 @@
+{
+ "slug": "background",
+ "title": "Background of the project",
+ "url": "/background/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 1,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": null,
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  },
+  {
+   "index": 3,
+   "structure": null,
+   "background": {
+    "color": "#d2e9e1"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": 753
+   }
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": {
+    "color": "#003e53"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "980"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Origin of the idea...",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Agnes is a village girl, she is born ánd raised in the village. She happen to be an international traveller and everytime she flies back to her home country,  sees the situation of young people. She happen to realize many cases which proves availability of young people hanging arround, having no perspective, no focus just complaining life is hard, no jobs etc,..Agnes decided to share her idea on her Facebook page 'Agnes Kundy' (which is now Agnes Link) as a first step.  (as it can be seen right on the picture). After receiving positive responce, she decided to do more research intending to know what real is happening arround young people's lives.",
+   "html": "<p>Agnes is a village girl, she is born ánd raised in the village. She happen to be an international traveller and everytime she flies back to her home country,  sees the situation of young people. She happen to realize many cases which proves availability of young people hanging arround, having no perspective, no focus just complaining life is hard, no jobs etc,..Agnes decided to share her idea on her Facebook page 'Agnes Kundy' (which is now Agnes Link) as a first step.  (as it can be seen right on the picture). After receiving positive responce, she decided to do more research intending to know what real is happening arround young people's lives. </p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/20200405_184700-scaled.jpg",
+   "title": "20200405_184700",
+   "width": 2560,
+   "height": 2560,
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/Agnes-Link-introducing-her-idea-that-lead-to-the-foundation-of-AKundy-Organization-to-Karamsingi-Youth-on-22.9.2018-scaled.jpg",
+   "title": "Agnes Link introducing her idea that lead to the foundation of AKundy Organization to Karamsingi Youth on 22.9.2018",
+   "width": 2560,
+   "height": 1244,
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Research results concluded...",
+   "align": "left",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Young people need to be supported more on knowledge. They also need material provision in terms of money as capital, but the situation shows material provision in terms of Money can only be a support if it is treated as the last capital.  It is done after young people are equipped by practical knowledge, that builds them to the creativity ability and knowing what they like to do, what they can do and start doing them.",
+   "html": "<p>Young people need to be supported more on knowledge. They also need material provision in terms of money as capital, but the situation shows material provision in terms of Money can only be a support if it is treated as the last capital.  It is done after young people are equipped by practical knowledge, that builds them to the creativity ability and knowing what they like to do, what they can do and start doing them.</p>",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Research Observation (only few of them...)",
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "In the process of supporting young people to support themselves the following has to be considered. Young people need:  \n\n -To be persuaded\n\n- To be encouraged\n\n  - Practical knowledge to enhance their creativity in employing themselves on the opportunities around them.\n\n  -To build up ability for their self psychological awareness, in recognizing their inner strength and courage.This can help them to realize, their main capital before any other external capital (like money or machines), is their self motivation from their inner strength and courage. \n\n   -To build up a culture of working together, helping each other on entrepreneurial activities that builds them, and not just hanging around doing nothing while complaining life is hard.\n\n  -Guidance to organize themselves to be together and share life experiences they already have, they are in and those they are wishing to do.\n\n   -To be encouraged to the self-awareness that they can and believe they can\n\nThe reseach results and observations are the reasons made Agnes to come up with the idea  \"VIJANA KUJIWEZESHA, VIJANA KUWEZESHANA & KUWEZESHWA\"y",
+   "html": "<p>In the process of supporting young people to support themselves the following has to be considered. Young people need:&nbsp;&nbsp;</p>\n<p>&nbsp;-To be persuaded</p>\n<p><span style=\"font-size: 14px;\">- To be encouraged</span></p>\n<p>&nbsp; - Practical knowledge to enhance their creativity in employing themselves on the opportunities around them.</p>\n<p>&nbsp; -To build up ability for their self psychological awareness, in recognizing their inner strength and courage.This can help them to realize, their main capital before any other external capital (like money or machines), is their self motivation from their inner strength and courage.&nbsp;</p>\n<p>&nbsp; &nbsp;-To build up a culture of working together, helping each other on entrepreneurial activities that builds them, and not just hanging around doing nothing while complaining life is hard.</p>\n<p>&nbsp; -Guidance to organize themselves to be together and share life experiences they already have, they are in and those they are wishing to do.</p>\n<p>&nbsp; &nbsp;-To be encouraged to the self-awareness that they can and believe they can</p>\n<p>The reseach results and observations are the reasons made Agnes to come up with the idea&nbsp;<span style=\"font-size: 14px;\">&nbsp;\"VIJANA KUJIWEZESHA, VIJANA KUWEZESHANA &amp; KUWEZESHWA\"y</span></p>",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more about Agri-Connect TANZANIA Vision",
+   "href": "/mission/",
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/03/20191019_204448-scaled.jpg",
+   "title": "20191019_204448",
+   "width": 2560,
+   "height": 1580,
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The reseach results and observations are the reasons made Agnes to come up with the idea  \"VIJANA KUJIWEZESHA, VIJANA KUWEZESHANA & KUWEZESHWA\"",
+   "html": "<p>The reseach results and observations are the reasons made Agnes to come up with the idea <span style=\"font-size: 14px;\"> \"VIJANA KUJIWEZESHA, VIJANA KUWEZESHANA &amp; KUWEZESHWA\"</span></p>",
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/website-tshirt-2.jpg",
+   "title": "website tshirt 2",
+   "width": 783,
+   "height": 1034,
+   "section": 2,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "testimonial",
+   "markdown": "The reseach doing, observations and results are the reasons made me to come up with the idea  \"VIJANA KUJIWEZESHA, VIJANA KUWEZESHANA & VIJANA KUWEZESHWA\" I believe, in order to achieve the vision and mission of supporting young people to support themselves; and have a strong community with strong, responsible and independent young generation; the support should strictly go through the three stages, in three procesess.\\\n\\\nSTAGES \\\n1. *Kijana kujiwezesha (A young person to support him/herself)*\\\n2. *Vijana kuwezeshana (Young people to support each other)*\\\n3. *Vijana kuwezeshwa (Young people to be supported)*\\\n\\\nPROCESS\\\n1. Mindset changing\\\n2. Capacity building\\\n3. Material provision",
+   "name": "agnes link",
+   "role": "NGO Founder",
+   "image": {
+    "src": "assets/2019/09/NEW-PICTURE-3.jpg",
+    "title": "NEW PICTURE (3)",
+    "width": 1922,
+    "height": 1230
+   },
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Read more on how you can support",
+   "href": null,
+   "align": "center",
+   "section": 3,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "FOLLOW US AND SUBSCRIBE NOW",
+   "href": null,
+   "align": "right",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UCBj1ncZUeE0evzpqvWG-xzg"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/pages/category/Youth-Organization/Agri-Connect-Tanzania-103463751030825/"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agriconnecttanzania?igshid=rmo7rmv0nmfo"
+    }
+   ],
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  }
+ ]
+}

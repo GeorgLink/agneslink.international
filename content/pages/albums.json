@@ -1,0 +1,362 @@
+{
+ "slug": "albums",
+ "title": "Albums",
+ "url": "/albums/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": "20",
+   "background": {
+    "image": {
+     "src": "assets/2019/12/IMG-20191126-WA0011-2.jpg",
+     "title": "IMG-20191126-WA0011",
+     "width": 928,
+     "height": 1080
+    },
+    "overlay_color": "#000000"
+   },
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": "20",
+   "background": {
+    "image": {
+     "src": "assets/2019/12/tARUMBETA-PICHA-2424-1-scaled.jpg",
+     "title": "tARUMBETA PICHA 2424",
+     "width": 1700,
+     "height": 2560
+    }
+   },
+   "content_width": null
+  },
+  {
+   "index": 3,
+   "structure": "20",
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 4,
+   "structure": "20",
+   "background": {
+    "overlay_opacity": "0.5px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "940"
+   }
+  },
+  {
+   "index": 5,
+   "structure": null,
+   "background": {
+    "image": {
+     "src": "assets/2021/01/Inside-1.png",
+     "title": "Inside",
+     "width": 1630,
+     "height": 1482
+    },
+    "overlay_color": "#727272",
+    "overlay_opacity": "0.89px"
+   },
+   "content_width": {
+    "unit": "px",
+    "size": "1140"
+   }
+  },
+  {
+   "index": 6,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link - 1st Album: BABA NAKUSHUKURU",
+   "align": "left",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "Baba Nakushukuru, is my very first Album, it has 8 songs. By God's grace, I will have many more Albums but this will be highly cherished in my atention. It carries my very first experience and feeling of me being in music industry. I never think or plan to be a Singer. It is a gift from God. The feeling of being in the studio for the first time, recording the song Baba nakushukuru, never come out of my memory. it was very powerful, there was so much power of God in that room. You can see a little bit of what happened on Agneslink YouTube channel.",
+   "html": "<p>Baba Nakushukuru, is my very first Album, it has 8 songs. By God's grace, I will have many more Albums but this will be highly cherished in my atention. It carries my very first experience and feeling of me being in music industry. I never think or plan to be a Singer. It is a gift from God. The feeling of being in the studio for the first time, recording the song Baba nakushukuru, never come out of my memory. it was very powerful, there was so much power of God in that room. You can see a little bit of what happened on Agneslink YouTube channel.</p>",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Click here to go to Agneslink Youtube Channel",
+   "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/Agness-AUDIO-Cover-Baba-Nakushukuru-SAMPLE-2.png",
+   "title": "Agness AUDIO Cover - Baba Nakushukuru - SAMPLE 2",
+   "width": 2924,
+   "height": 2480,
+   "align": "right",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "*\"But godliness with contentment is great gain\"       (1Timothy 6:6)***",
+   "html": "<p style=\"text-align: right;\"><em>\"But godliness with contentment is great gain\"      <strong> </strong></em><strong><em style=\"font-size: 18px; color: var( --e-global-color-text );\">(1Timothy 6:6)</em></strong></p>",
+   "section": 0,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/12/IMG-20191103-WA0102.jpg",
+   "title": "IMG-20191103-WA0102",
+   "width": 1000,
+   "height": 800,
+   "align": "left",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "*\"The LORD will guide you continually, and satisfy your soul in drought, and strengthern your bones; You shall be like a watered garden, and like a spring of water, whose waters do not fail\"                                           **(Isaiah 58:11)***",
+   "html": "<p><em>\"The LORD will guide you continually, and satisfy your soul in drought, and strengthern your bones; You shall be like a watered garden, and like a spring of water, whose waters do not fail\"                                          <strong> (Isaiah 58:11)</strong></em></p>",
+   "section": 1,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link - 2nd Album: MUNGU NDIYE KILA KITU",
+   "align": "left",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The second album called \"MUNGU NDIYE KILA KITU\" has 8 songs. It was produced in July 2019. Agnes writes and composed one songs melody \"YESU NI YEYE YULE and REPENTANCE (speaking song)\". The rest were composed by Brother Joshua Mlelwa. The driving force for this album and expecially for the song that carries it, is that, I believe we are all potential and nothing makes anybody to qualify to ignore the other. We are all potential everyone on his/her own way and we should love and respect one another. The song sited things like education and beauty that they are all important but they dont make any body better than the other.\n\nThe album carries songs with a message full of encouragents. Example,  Saul of today can be Paul of tomorow, poor man of today can be a rich man of tomorow, prostitute woman of today can be a virtuaous wife of tomorow. All these means what you are, doesn't make you bettter than all and we must know what we are today is not permanent. so we should love one another and always worship God and know in Him all things are possible. MUNGU NDIYE KILA KITU/HE IS EVERYTHING/GOTT IST ALLES",
+   "html": "<p>The second album called \"MUNGU NDIYE KILA KITU\" has 8 songs. It was produced in July 2019. Agnes writes and composed one songs melody \"YESU NI YEYE YULE and REPENTANCE (speaking song)\". The rest were composed by Brother Joshua Mlelwa. The driving force for this album and expecially for the song that carries it, is that, I believe we are all potential and nothing makes anybody to qualify to ignore the other. We are all potential everyone on his/her own way and we should love and respect one another. The song sited things like education and beauty that they are all important but they dont make any body better than the other.</p><p>The album carries songs with a message full of encouragents. Example,  Saul of today can be Paul of tomorow, poor man of today can be a rich man of tomorow, prostitute woman of today can be a virtuaous wife of tomorow. All these means what you are, doesn't make you bettter than all and we must know what we are today is not permanent. so we should love one another and always worship God and know in Him all things are possible. MUNGU NDIYE KILA KITU/HE IS EVERYTHING/GOTT IST ALLES</p>",
+   "section": 1,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link - 3rd Album: SALVATION",
+   "align": "left",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The third album called \"SALVATION\" has 8 songs. 4 songs were  produced in July 2019 at Shekinah Studios and 3 songs were produced in October 2019 by Success studios. All in Dar es Salaam. One song was produced December 2019 by Succes studios in Dar es salaam. \n\nSalvation is all we need as human being who has nature of humanity. The album carries message of salvation, be born again, what it is about Gods Kingdom and what we do if we want to inherit it.  What happens when we have given our lives to Christ and still facing life attacks and challenges. What it means and what we should do.\n\nThe album also carries the special song God brought to me as revelation about the valueful of the blood of Jesus. The song has only Agnes Link's voice. \n\nAnother thing making this album very special, it has one song Agnes has featured another Gospel Singer in Tanzania.  Agnes Link ft Alphonce Mutema. I love the song especially how prophetic the song was composed. \n\nThe album also carries a song about the Glory at the end will be greater than that of the beginning. The song message is also prophetic. I just have its message in mind and just did it. Later I came to realise it is one of the songs texts I wrote in the beginning. So I am thanksful the song came at its right time.",
+   "html": "<p>The third album called \"SALVATION\" has 8 songs. 4 songs were  produced in July 2019 at Shekinah Studios and 3 songs were produced in October 2019 by Success studios. All in Dar es Salaam. One song was produced December 2019 by Succes studios in Dar es salaam. </p><p>Salvation is all we need as human being who has nature of humanity. The album carries message of salvation, be born again, what it is about Gods Kingdom and what we do if we want to inherit it.  What happens when we have given our lives to Christ and still facing life attacks and challenges. What it means and what we should do.</p><p>The album also carries the special song God brought to me as revelation about the valueful of the blood of Jesus. The song has only Agnes Link's voice. </p><p>Another thing making this album very special, it has one song Agnes has featured another Gospel Singer in Tanzania.  Agnes Link ft Alphonce Mutema. I love the song especially how prophetic the song was composed. </p><p>The album also carries a song about the Glory at the end will be greater than that of the beginning. The song message is also prophetic. I just have its message in mind and just did it. Later I came to realise it is one of the songs texts I wrote in the beginning. So I am thanksful the song came at its right time. </p>",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Agnes-Salvation-Mockups-1-scaled.jpg",
+   "title": "Agnes - Salvation - Mockups 1",
+   "width": 2560,
+   "height": 2048,
+   "align": "right",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "*\"Now the LORD spoke to Paul in the night by a vision, \"Do not be afraid, but speak, and do not keep silent; I am with you, and no one will attack you to hurt you;\"                                               **(Acts 18:9-10)***",
+   "html": "<p style=\"text-align: center;\"><em>\"Now the LORD spoke to Paul in the night by a vision, \"Do not be afraid, but speak, and do not keep silent; I am with you, and no one will attack you to hurt you;\"                                              <strong> (Acts 18:9-10)</strong></em></p>",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "button",
+   "text": "Click here to go to Agneslink Youtube Channel",
+   "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng",
+   "align": "center",
+   "section": 2,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Agnes Link - 4th Album: Penye Sifa",
+   "align": "left",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "The 4th album called \"PENYE SIFA\" has 10 songs. The song Penye sifa that carries the name of the Album, came first to me through Melody in a Chorus. I was in the plane from Israel Trip back to Germany. It was in November 2019. I was in deep sleep singing the Chorus Penye sifa ndipo Ulipo, where there is Praise is where You are God. Then i wakeup, before i switch on my mobile phone to record The melody was gone. I couldnt remember it easily. It took 4 Months later when it came again exactly as It was and in May 2020 I went to the studio in Dar and start recording under the supervision of Alphonce Mutema. After this melody came back, many more melodies and messages kept flowing in my Heart time to time and i didnt hesitate to process them all. This is how the 4th Album was born. \n\nThe album songs carries more of Praises to God, prayers to God and just praising Him for all He is. \n\nThe album audios and videos have been processed longer period than the previous ones. This is the album i am expecting to be lounched early of the year 2021. The album both audios and videos are produced and expected to be ready before the laouching date is announced.  Thank you for your support it has made my humble beggining to this stage. stay tuned, i wont let you down. I keep improving day by day, I thank God.",
+   "html": "<p>The 4th album called \"PENYE SIFA\" has 10 songs. The song Penye sifa that carries the name of the Album, came first to me through Melody in a Chorus. I was in the plane from Israel Trip back to Germany. It was in November 2019. I was in deep sleep singing the Chorus Penye sifa ndipo Ulipo, where there is Praise is where You are God. Then i wakeup, before i switch on my mobile phone to record The melody was gone. I couldnt remember it easily. It took 4 Months later when it came again exactly as It was and in May 2020 I went to the studio in Dar and start recording under the supervision of Alphonce Mutema. After this melody came back, many more melodies and messages kept flowing in my Heart time to time and i didnt hesitate to process them all. This is how the 4th Album was born. </p><p>The album songs carries more of Praises to God, prayers to God and just praising Him for all He is. </p><p>The album audios and videos have been processed longer period than the previous ones. This is the album i am expecting to be lounched early of the year 2021. The album both audios and videos are produced and expected to be ready before the laouching date is announced.  Thank you for your support it has made my humble beggining to this stage. stay tuned, i wont let you down. I keep improving day by day, I thank God.</p>",
+   "section": 3,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "image",
+   "src": "assets/2021/01/Agnes-Penye-Sifa-Mockup-1-scaled.jpg",
+   "title": "Agnes - Penye Sifa - Mockup 1",
+   "width": 2560,
+   "height": 2048,
+   "align": "left",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "*\"...and the piece of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus. And my God shall supply all your need according to His riches in glory by Christ Jesus\"         **(Philippians 4:7,19)***",
+   "html": "<p style=\"text-align: right;\"><em>\"...and the piece of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus. And my God shall supply all your need according to His riches in glory by Christ Jesus\"        <strong> (Philippians 4:7,19)</strong></em></p>",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "richtext",
+   "markdown": "To be released early of the year 2021.\n\nStay tuned on Agnes Link's platforms below for more updates of New Songs and Albums.",
+   "html": "<p> </p><p>To be released early of the year 2021.</p><p>Stay tuned on Agnes Link's platforms below for more updates of New Songs and Albums.</p><p> </p>",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#23A455",
+   "section": 3,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Get your copy NOW!",
+   "align": "left",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "divider",
+   "color": "#eaeaea",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "icon-list",
+   "items": [
+    {
+     "text": "Amselweg 2, D-63674 Altenstadt Germany",
+     "href": null
+    },
+    {
+     "text": "peter.w.link@gmail.com",
+     "href": null
+    },
+    {
+     "text": "(49) 160 90800222",
+     "href": null
+    },
+    {
+     "text": "(49) 160 90800222",
+     "href": null
+    }
+   ],
+   "icon_color": "#a3a3a3",
+   "section": 4,
+   "column": 0,
+   "column_width": 50
+  },
+  {
+   "type": "map",
+   "query": "Amselweg 2,Frankfurt. D-63674 Altenstadt",
+   "zoom": "10px",
+   "section": 4,
+   "column": 1,
+   "column_width": 50
+  },
+  {
+   "type": "testimonial",
+   "markdown": "",
+   "name": "agnes edward LINK",
+   "role": "Gospel Artist: Singer & Song Writter",
+   "image": {
+    "src": "assets/2021/01/20210116_104023.png",
+    "title": "20210116_104023",
+    "width": 796,
+    "height": 911
+   },
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "social-icons",
+   "items": [
+    {
+     "network": "youtube",
+     "href": "https://www.youtube.com/channel/UClskqjtML04KraJpy7yB8ng"
+    },
+    {
+     "network": "facebook",
+     "href": "https://www.facebook.com/agnes.kundy.5"
+    },
+    {
+     "network": "instagram",
+     "href": "https://instagram.com/agneslinkofficial?igshid=rmo7rmv0nmfo"
+    },
+    {
+     "network": "whatsapp",
+     "href": "+4915206542334"
+    },
+    {
+     "network": "skype",
+     "href": "agnes.edward"
+    }
+   ],
+   "section": 5,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "button",
+   "text": "Audio & DVD",
+   "href": "/audio-dvd/",
+   "align": "center",
+   "section": 6,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}

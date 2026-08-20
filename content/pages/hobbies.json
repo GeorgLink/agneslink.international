@@ -1,0 +1,92 @@
+{
+ "slug": "hobbies",
+ "title": "Hobbies",
+ "url": "/hobbies/",
+ "front_page": false,
+ "sections": [
+  {
+   "index": 0,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 1,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  },
+  {
+   "index": 2,
+   "structure": null,
+   "background": null,
+   "content_width": null
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "MY HOBBIES",
+   "align": "center",
+   "section": 0,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "SPORT",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "richtext",
+   "markdown": "Climbing Mount Meru 4 days then continue 7 days to Mount Kilimanjaro and get to Uhuru Pick is one of memorable life adventure in my lufe time. The company and good friends we did this together will always be cherished in my attention. The fruiendship and love. The jorney tough me many things including the so called PAMOJA KWA UMOJA makes everything possible. We agreed to make it and we made it together, we are proud of what we did.",
+   "html": "<p>Climbing Mount Meru 4 days then continue 7 days to Mount Kilimanjaro and get to Uhuru Pick is one of memorable life adventure in my lufe time. The company and good friends we did this together will always be cherished in my attention. The fruiendship and love. The jorney tough me many things including the so called PAMOJA KWA UMOJA makes everything possible. We agreed to make it and we made it together, we are proud of what we did. </p>",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2020/04/20200419_174525.jpg",
+   "title": "20200419_174525",
+   "width": 1600,
+   "height": 1200,
+   "align": "right",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "CLIMBED MT KILIMANJARO AND GET TO THE PICK",
+   "align": "center",
+   "section": 1,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "image",
+   "src": "assets/2019/10/IMG-20190915-WA0020.jpg",
+   "title": "IMG-20190915-WA0020",
+   "width": 931,
+   "height": 950,
+   "align": "right",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "singing",
+   "section": 2,
+   "column": 0,
+   "column_width": 100
+  }
+ ]
+}
